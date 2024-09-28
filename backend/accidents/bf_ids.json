@@ -1,0 +1,2968 @@
+{
+    "203244667": {
+        "wsp_gps_x": 21.2761937,
+        "wsp_gps_y": 52.1181104,
+        "id_w_czas": "2021-07-08",
+        "czas_zdarzenia": "19:50",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "otwocki",
+        "gmi_nazwa": "Otwock",
+        "mie_nazwa": "Otwock",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w czo\u0142owe",
+        "uczestnicy": {
+            "237400605": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "237400606": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motocykl inny"
+            }
+        },
+        "zdarzenie_id": 203244667,
+        "id_systemu_zr": "110315995"
+    },
+    "203244670": {
+        "wsp_gps_x": 21.7456385,
+        "wsp_gps_y": 50.3770271,
+        "id_w_czas": "2021-07-08",
+        "czas_zdarzenia": "16:31",
+        "woj_nazwa": "PODKARPACKIE",
+        "pow_nazwa": "kolbuszowski",
+        "gmi_nazwa": "Majdan Kr\u00f3lewski",
+        "mie_nazwa": "Majdan Kr\u00f3lewski",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w tylne",
+        "uczestnicy": {
+            "236855539": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d ci\u0119\u017carowy DMC powy\u017cej 3,5 T"
+            },
+            "236855540": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    },
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203244670,
+        "id_systemu_zr": "110316000"
+    },
+    "203244685": {
+        "wsp_gps_x": 19.25925,
+        "wsp_gps_y": 50.1926663,
+        "id_w_czas": "2021-07-26",
+        "czas_zdarzenia": "01:03",
+        "woj_nazwa": "\u015aL\u0104SKIE",
+        "pow_nazwa": "Jaworzno",
+        "gmi_nazwa": "Jaworzno",
+        "mie_nazwa": "Jaworzno",
+        "opis_zdarzenia": "Najechanie na drzewo",
+        "uczestnicy": {
+            "236702837": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203244685,
+        "id_systemu_zr": "110342833"
+    },
+    "203244684": {
+        "wsp_gps_x": 23.4050555,
+        "wsp_gps_y": 51.3977218,
+        "id_w_czas": "2021-07-25",
+        "czas_zdarzenia": "20:54",
+        "woj_nazwa": "LUBELSKIE",
+        "pow_nazwa": "w\u0142odawski",
+        "gmi_nazwa": "Ha\u0144sk",
+        "mie_nazwa": "Ha\u0144sk Pierwszy",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w czo\u0142owe",
+        "uczestnicy": {
+            "237110117": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "237110116": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203244684,
+        "id_systemu_zr": "110342817"
+    },
+    "203244686": {
+        "wsp_gps_x": 19.4650833,
+        "wsp_gps_y": 51.1740826,
+        "id_w_czas": "2021-07-25",
+        "czas_zdarzenia": "22:50",
+        "woj_nazwa": "\u0141\u00d3DZKIE",
+        "pow_nazwa": "radomszcza\u0144ski",
+        "gmi_nazwa": "Gomunice",
+        "mie_nazwa": "S\u0142ostowice",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w tylne",
+        "uczestnicy": {
+            "237298418": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d ci\u0119\u017carowy DMC powy\u017cej 3,5 T"
+            },
+            "237298419": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    },
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203244686,
+        "id_systemu_zr": "110342836"
+    },
+    "203244692": {
+        "wsp_gps_x": 22.5265271,
+        "wsp_gps_y": 53.7556944,
+        "id_w_czas": "2021-07-25",
+        "czas_zdarzenia": "18:00",
+        "woj_nazwa": "WARMI\u0143SKO-MAZURSKIE",
+        "pow_nazwa": "e\u0142cki",
+        "gmi_nazwa": "Prostki",
+        "mie_nazwa": "Wi\u015bniowo E\u0142ckie",
+        "opis_zdarzenia": "Inne",
+        "uczestnicy": {
+            "237181516": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "237181517": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Inny"
+            }
+        },
+        "zdarzenie_id": 203244692,
+        "id_systemu_zr": "110342860"
+    },
+    "203244718": {
+        "wsp_gps_x": 20.0382774,
+        "wsp_gps_y": 49.4869718,
+        "id_w_czas": "2021-07-11",
+        "czas_zdarzenia": "10:20",
+        "woj_nazwa": "MA\u0141OPOLSKIE",
+        "pow_nazwa": "nowotarski",
+        "gmi_nazwa": "Nowy Targ",
+        "mie_nazwa": "Nowy Targ",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "237328295": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            },
+            "237328296": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203244718,
+        "id_systemu_zr": "110320598"
+    },
+    "203244719": {
+        "wsp_gps_x": 20.9115,
+        "wsp_gps_y": 53.3066666,
+        "id_w_czas": "2021-07-11",
+        "czas_zdarzenia": "11:37",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "przasnyski",
+        "gmi_nazwa": "Chorzele",
+        "mie_nazwa": "Opaleniec",
+        "opis_zdarzenia": "Inne",
+        "uczestnicy": {
+            "236922569": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motocykl inny"
+            },
+            "236922568": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "236922570": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motocykl inny"
+            },
+            "236922571": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motocykl inny"
+            },
+            "236922572": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motocykl inny"
+            }
+        },
+        "zdarzenie_id": 203244719,
+        "id_systemu_zr": "110320605"
+    },
+    "203244755": {
+        "wsp_gps_x": 21.054752,
+        "wsp_gps_y": 52.194641,
+        "id_w_czas": "2021-07-22",
+        "czas_zdarzenia": "20:26",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "Warszawa",
+        "gmi_nazwa": "Warszawa",
+        "mie_nazwa": "Warszawa",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "237138105": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Pojazd nieustalony"
+            },
+            "237138106": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            }
+        },
+        "zdarzenie_id": 203244755,
+        "id_systemu_zr": "110343026"
+    },
+    "203244749": {
+        "wsp_gps_x": 14.5515277,
+        "wsp_gps_y": 53.4169437,
+        "id_w_czas": "2021-07-24",
+        "czas_zdarzenia": "15:14",
+        "woj_nazwa": "ZACHODNIOPOMORSKIE",
+        "pow_nazwa": "Szczecin",
+        "gmi_nazwa": "Szczecin",
+        "mie_nazwa": "Szczecin",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "237280353": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motocykl inny"
+            },
+            "237280354": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Tramwaj, trolejbus"
+            }
+        },
+        "zdarzenie_id": 203244749,
+        "id_systemu_zr": "110342974"
+    },
+    "203244774": {
+        "wsp_gps_x": 22.3655555,
+        "wsp_gps_y": 51.9213326,
+        "id_w_czas": "2021-07-11",
+        "czas_zdarzenia": "15:12",
+        "woj_nazwa": "LUBELSKIE",
+        "pow_nazwa": "\u0142ukowski",
+        "gmi_nazwa": "\u0141uk\u00f3w",
+        "mie_nazwa": "\u0141uk\u00f3w",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "236837812": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "236837811": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motocykl inny"
+            }
+        },
+        "zdarzenie_id": 203244774,
+        "id_systemu_zr": "110320677"
+    },
+    "203245407": {
+        "wsp_gps_x": 17.0720826,
+        "wsp_gps_y": 52.3742215,
+        "id_w_czas": "2021-07-09",
+        "czas_zdarzenia": "05:46",
+        "woj_nazwa": "WIELKOPOLSKIE",
+        "pow_nazwa": "pozna\u0144ski",
+        "gmi_nazwa": "Swarz\u0119dz",
+        "mie_nazwa": "Garby",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w czo\u0142owe",
+        "uczestnicy": {
+            "237104235": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "237104234": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203245407,
+        "id_systemu_zr": "110317642"
+    },
+    "203245397": {
+        "wsp_gps_x": 21.1176104,
+        "wsp_gps_y": 51.3958052,
+        "id_w_czas": "2021-07-12",
+        "czas_zdarzenia": "16:44",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "Radom",
+        "gmi_nazwa": "Radom",
+        "mie_nazwa": "Radom",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w tylne",
+        "uczestnicy": {
+            "236922576": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "236922575": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203245397,
+        "id_systemu_zr": "110321713"
+    },
+    "203245405": {
+        "wsp_gps_x": 19.4789715,
+        "wsp_gps_y": 51.7610555,
+        "id_w_czas": "2021-07-08",
+        "czas_zdarzenia": "15:14",
+        "woj_nazwa": "\u0141\u00d3DZKIE",
+        "pow_nazwa": "\u0141\u00f3d\u017a",
+        "gmi_nazwa": "\u0141\u00f3d\u017a",
+        "mie_nazwa": "\u0141\u00f3d\u017a",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "236827070": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            },
+            "236827071": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203245405,
+        "id_systemu_zr": "110317637"
+    },
+    "203245460": {
+        "wsp_gps_x": 15.4914441,
+        "wsp_gps_y": 51.9395274,
+        "id_w_czas": "2021-07-26",
+        "czas_zdarzenia": "09:11",
+        "woj_nazwa": "LUBUSKIE",
+        "pow_nazwa": "Zielona G\u00f3ra",
+        "gmi_nazwa": "Zielona G\u00f3ra",
+        "mie_nazwa": "Zielona G\u00f3ra",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w tylne",
+        "uczestnicy": {
+            "236838821": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Autobus inny"
+            },
+            "236838820": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203245460,
+        "id_systemu_zr": "110343445"
+    },
+    "203245517": {
+        "wsp_gps_x": 15.7616388,
+        "wsp_gps_y": 51.3578888,
+        "id_w_czas": "2021-07-07",
+        "czas_zdarzenia": "11:37",
+        "woj_nazwa": "DOLNO\u015aL\u0104SKIE",
+        "pow_nazwa": "boles\u0142awiecki",
+        "gmi_nazwa": "Gromadka",
+        "mie_nazwa": "Gromadka",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "237380890": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "237380891": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motorower"
+            }
+        },
+        "zdarzenie_id": 203245517,
+        "id_systemu_zr": "110321866"
+    },
+    "203245656": {
+        "wsp_gps_x": 18.7884163,
+        "wsp_gps_y": 54.0948607,
+        "id_w_czas": "2021-07-09",
+        "czas_zdarzenia": "14:13",
+        "woj_nazwa": "POMORSKIE",
+        "pow_nazwa": "tczewski",
+        "gmi_nazwa": "Tczew",
+        "mie_nazwa": "Tczew",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "237058881": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d ci\u0119\u017carowy DMC do 3,5 T"
+            },
+            "237058882": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            }
+        },
+        "zdarzenie_id": 203245656,
+        "id_systemu_zr": "110318083"
+    },
+    "203245642": {
+        "wsp_gps_x": 22.12033,
+        "wsp_gps_y": 50.230652,
+        "id_w_czas": "2021-07-07",
+        "czas_zdarzenia": "06:59",
+        "woj_nazwa": "PODKARPACKIE",
+        "pow_nazwa": "rzeszowski",
+        "gmi_nazwa": "Soko\u0142\u00f3w Ma\u0142opolski",
+        "mie_nazwa": "Soko\u0142\u00f3w Ma\u0142opolski",
+        "opis_zdarzenia": "Najechanie na s\u0142up, znak",
+        "uczestnicy": {
+            "236782747": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203245642,
+        "id_systemu_zr": "110322034"
+    },
+    "203245645": {
+        "wsp_gps_x": 15.2871663,
+        "wsp_gps_y": 50.9867496,
+        "id_w_czas": "2021-07-09",
+        "czas_zdarzenia": "13:35",
+        "woj_nazwa": "DOLNO\u015aL\u0104SKIE",
+        "pow_nazwa": "luba\u0144ski",
+        "gmi_nazwa": "Le\u015bna",
+        "mie_nazwa": "\u015awiecie",
+        "opis_zdarzenia": "Wywr\u00f3cenie si\u0119 pojazdu",
+        "uczestnicy": {
+            "237089579": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Na miejscu"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Ci\u0105gnik rolniczy"
+            }
+        },
+        "zdarzenie_id": 203245645,
+        "id_systemu_zr": "110322044"
+    },
+    "203245804": {
+        "wsp_gps_x": 20.3242771,
+        "wsp_gps_y": 50.5193882,
+        "id_w_czas": "2021-07-09",
+        "czas_zdarzenia": "13:10",
+        "woj_nazwa": "\u015aWI\u0118TOKRZYSKIE",
+        "pow_nazwa": "j\u0119drzejowski",
+        "gmi_nazwa": "Wodzis\u0142aw",
+        "mie_nazwa": "Niegos\u0142awice",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "237072110": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "237072111": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203245804,
+        "id_systemu_zr": "110318283"
+    },
+    "203245906": {
+        "wsp_gps_x": 19.823166,
+        "wsp_gps_y": 49.8248882,
+        "id_w_czas": "2021-07-26",
+        "czas_zdarzenia": "17:19",
+        "woj_nazwa": "MA\u0141OPOLSKIE",
+        "pow_nazwa": "my\u015blenicki",
+        "gmi_nazwa": "Su\u0142kowice",
+        "mie_nazwa": "Su\u0142kowice",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "236949325": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "236949324": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            }
+        },
+        "zdarzenie_id": 203245906,
+        "id_systemu_zr": "110344581"
+    },
+    "203504678": {
+        "wsp_gps_x": 21.155,
+        "wsp_gps_y": 50.9998607,
+        "id_w_czas": "2021-12-15",
+        "czas_zdarzenia": "16:22",
+        "woj_nazwa": "\u015aWI\u0118TOKRZYSKIE",
+        "pow_nazwa": "starachowicki",
+        "gmi_nazwa": "Brody",
+        "mie_nazwa": "Styk\u00f3w",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "236766606": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 203504678,
+        "id_systemu_zr": "116680823"
+    },
+    "203443159": {
+        "wsp_gps_x": 20.2595277,
+        "wsp_gps_y": 51.7644722,
+        "id_w_czas": "2021-06-07",
+        "czas_zdarzenia": "15:28",
+        "woj_nazwa": "\u0141\u00d3DZKIE",
+        "pow_nazwa": "rawski",
+        "gmi_nazwa": "Rawa Mazowiecka",
+        "mie_nazwa": "Rawa Mazowiecka",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "237262891": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motocykl inny"
+            },
+            "237262892": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 203443159,
+        "id_systemu_zr": "110257215"
+    },
+    "203443154": {
+        "wsp_gps_x": 21.7860552,
+        "wsp_gps_y": 50.721666,
+        "id_w_czas": "2021-06-07",
+        "czas_zdarzenia": "16:57",
+        "woj_nazwa": "\u015aWI\u0118TOKRZYSKIE",
+        "pow_nazwa": "sandomierski",
+        "gmi_nazwa": "Dwikozy",
+        "mie_nazwa": "Dwikozy",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w tylne",
+        "uczestnicy": {
+            "237011778": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "237011777": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Na miejscu"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            }
+        },
+        "zdarzenie_id": 203443154,
+        "id_systemu_zr": "110257193"
+    },
+    "203443157": {
+        "wsp_gps_x": 17.05025,
+        "wsp_gps_y": 54.6657777,
+        "id_w_czas": "2021-06-07",
+        "czas_zdarzenia": "16:45",
+        "woj_nazwa": "POMORSKIE",
+        "pow_nazwa": "s\u0142upski",
+        "gmi_nazwa": "Ustka",
+        "mie_nazwa": "Rowy",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "237370260": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Inny"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 203443157,
+        "id_systemu_zr": "110257206"
+    },
+    "212192950": {
+        "wsp_gps_x": 19.511361,
+        "wsp_gps_y": 50.000438,
+        "id_w_czas": "2023-11-13",
+        "czas_zdarzenia": "10:40",
+        "woj_nazwa": "MA\u0141OPOLSKIE",
+        "pow_nazwa": "wadowicki",
+        "gmi_nazwa": "Spytkowice",
+        "mie_nazwa": "Spytkowice",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "252961348": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 212192950,
+        "id_systemu_zr": "125792752"
+    },
+    "212185972": {
+        "wsp_gps_x": 21.0224993,
+        "wsp_gps_y": 52.0672771,
+        "id_w_czas": "2023-11-03",
+        "czas_zdarzenia": "21:56",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "piaseczy\u0144ski",
+        "gmi_nazwa": "Piaseczno",
+        "mie_nazwa": "Piaseczno",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            },
+            "253055027": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212185972,
+        "id_systemu_zr": "125780145"
+    },
+    "212186004": {
+        "wsp_gps_x": 22.1971663,
+        "wsp_gps_y": 51.8720271,
+        "id_w_czas": "2023-11-02",
+        "czas_zdarzenia": "10:24",
+        "woj_nazwa": "LUBELSKIE",
+        "pow_nazwa": "\u0142ukowski",
+        "gmi_nazwa": "Stanin",
+        "mie_nazwa": "Stanin",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w tylne",
+        "uczestnicy": {
+            "252699704": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252699705": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            }
+        },
+        "zdarzenie_id": 212186004,
+        "id_systemu_zr": "125777960"
+    },
+    "212186025": {
+        "wsp_gps_x": 17.068666,
+        "wsp_gps_y": 51.1368885,
+        "id_w_czas": "2023-11-02",
+        "czas_zdarzenia": "11:12",
+        "woj_nazwa": "DOLNO\u015aL\u0104SKIE",
+        "pow_nazwa": "Wroc\u0142aw",
+        "gmi_nazwa": "Wroc\u0142aw",
+        "mie_nazwa": "Wroc\u0142aw",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "252888691": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252888692": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            }
+        },
+        "zdarzenie_id": 212186025,
+        "id_systemu_zr": "125778002"
+    },
+    "212186257": {
+        "wsp_gps_x": 17.1303604,
+        "wsp_gps_y": 51.1519166,
+        "id_w_czas": "2023-11-03",
+        "czas_zdarzenia": "17:26",
+        "woj_nazwa": "DOLNO\u015aL\u0104SKIE",
+        "pow_nazwa": "Wroc\u0142aw",
+        "gmi_nazwa": "Wroc\u0142aw",
+        "mie_nazwa": "Wroc\u0142aw",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "252738167": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 212186257,
+        "id_systemu_zr": "125780722"
+    },
+    "212186245": {
+        "wsp_gps_x": 16.6795548,
+        "wsp_gps_y": 50.4336107,
+        "id_w_czas": "2023-11-02",
+        "czas_zdarzenia": "17:14",
+        "woj_nazwa": "DOLNO\u015aL\u0104SKIE",
+        "pow_nazwa": "k\u0142odzki",
+        "gmi_nazwa": "K\u0142odzko",
+        "mie_nazwa": "K\u0142odzko",
+        "opis_zdarzenia": "Najechanie na zwierz\u0119",
+        "uczestnicy": {
+            "252865277": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motocykl inny"
+            }
+        },
+        "zdarzenie_id": 212186245,
+        "id_systemu_zr": "125778443"
+    },
+    "212186262": {
+        "wsp_gps_x": 15.8234993,
+        "wsp_gps_y": 54.0362218,
+        "id_w_czas": "2023-11-03",
+        "czas_zdarzenia": "18:02",
+        "woj_nazwa": "ZACHODNIOPOMORSKIE",
+        "pow_nazwa": "bia\u0142ogardzki",
+        "gmi_nazwa": "Karlino",
+        "mie_nazwa": "Brak w danych \u017ar\u00f3d\u0142owych",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w czo\u0142owe",
+        "uczestnicy": {
+            "252761575": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252761576": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212186262,
+        "id_systemu_zr": "125780736"
+    },
+    "212186302": {
+        "wsp_gps_x": 17.0185826,
+        "wsp_gps_y": 51.0769437,
+        "id_w_czas": "2023-09-12",
+        "czas_zdarzenia": "13:40",
+        "woj_nazwa": "DOLNO\u015aL\u0104SKIE",
+        "pow_nazwa": "Wroc\u0142aw",
+        "gmi_nazwa": "Wroc\u0142aw",
+        "mie_nazwa": "Wroc\u0142aw",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            },
+            "252851507": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212186302,
+        "id_systemu_zr": "125780804"
+    },
+    "212186322": {
+        "wsp_gps_x": 19.5659444,
+        "wsp_gps_y": 52.4544722,
+        "id_w_czas": "2023-11-04",
+        "czas_zdarzenia": "09:10",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "p\u0142ocki",
+        "gmi_nazwa": "\u0141\u0105ck",
+        "mie_nazwa": "Wola \u0141\u0105cka",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w czo\u0142owe",
+        "uczestnicy": {
+            "252743419": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252743420": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212186322,
+        "id_systemu_zr": "125780851"
+    },
+    "212186411": {
+        "wsp_gps_x": 21.7833885,
+        "wsp_gps_y": 54.0503333,
+        "id_w_czas": "2023-11-02",
+        "czas_zdarzenia": "15:00",
+        "woj_nazwa": "WARMI\u0143SKO-MAZURSKIE",
+        "pow_nazwa": "gi\u017cycki",
+        "gmi_nazwa": "Gi\u017cycko",
+        "mie_nazwa": "Gajewo",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w tylne",
+        "uczestnicy": {
+            "253093556": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253093557": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212186411,
+        "id_systemu_zr": "125778791"
+    },
+    "212186400": {
+        "wsp_gps_x": 20.763119,
+        "wsp_gps_y": 52.413677,
+        "id_w_czas": "2023-11-04",
+        "czas_zdarzenia": "15:32",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "legionowski",
+        "gmi_nazwa": "Jab\u0142onna",
+        "mie_nazwa": "Bo\u017ca Wola",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "253297846": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    },
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko",
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253297845": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    },
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212186400,
+        "id_systemu_zr": "125781006"
+    },
+    "212186581": {
+        "wsp_gps_x": 22.3441663,
+        "wsp_gps_y": 50.7346385,
+        "id_w_czas": "2023-11-05",
+        "czas_zdarzenia": "20:28",
+        "woj_nazwa": "LUBELSKIE",
+        "pow_nazwa": "janowski",
+        "gmi_nazwa": "Modliborzyce",
+        "mie_nazwa": "Modliborzyce",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "253276400": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253276401": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212186581,
+        "id_systemu_zr": "125781430"
+    },
+    "212186591": {
+        "wsp_gps_x": 20.4697215,
+        "wsp_gps_y": 53.7758882,
+        "id_w_czas": "2023-11-03",
+        "czas_zdarzenia": "18:35",
+        "woj_nazwa": "WARMI\u0143SKO-MAZURSKIE",
+        "pow_nazwa": "Olsztyn",
+        "gmi_nazwa": "Olsztyn",
+        "mie_nazwa": "Olsztyn",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            },
+            "252743370": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212186591,
+        "id_systemu_zr": "125778987"
+    },
+    "212186972": {
+        "wsp_gps_x": 19.890583,
+        "wsp_gps_y": 50.0809715,
+        "id_w_czas": "2023-11-03",
+        "czas_zdarzenia": "19:19",
+        "woj_nazwa": "MA\u0141OPOLSKIE",
+        "pow_nazwa": "Krak\u00f3w",
+        "gmi_nazwa": "Krak\u00f3w",
+        "mie_nazwa": "Krak\u00f3w",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "252843525": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 212186972,
+        "id_systemu_zr": "125780146"
+    },
+    "212186938": {
+        "wsp_gps_x": 18.9956385,
+        "wsp_gps_y": 50.2709437,
+        "id_w_czas": "2023-11-03",
+        "czas_zdarzenia": "19:01",
+        "woj_nazwa": "\u015aL\u0104SKIE",
+        "pow_nazwa": "Katowice",
+        "gmi_nazwa": "Katowice",
+        "mie_nazwa": "Katowice",
+        "opis_zdarzenia": "Najechanie na barier\u0119 ochronn\u0105",
+        "uczestnicy": {
+            "252656783": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212186938,
+        "id_systemu_zr": "125780101"
+    },
+    "212186948": {
+        "wsp_gps_x": 20.65475,
+        "wsp_gps_y": 50.8924163,
+        "id_w_czas": "2023-11-06",
+        "czas_zdarzenia": "11:35",
+        "woj_nazwa": "\u015aWI\u0118TOKRZYSKIE",
+        "pow_nazwa": "Kielce",
+        "gmi_nazwa": "Kielce",
+        "mie_nazwa": "Kielce",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "252986327": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252986328": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252986329": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212186948,
+        "id_systemu_zr": "125782224"
+    },
+    "212186946": {
+        "wsp_gps_x": 17.5078611,
+        "wsp_gps_y": 51.1843885,
+        "id_w_czas": "2023-11-06",
+        "czas_zdarzenia": "11:39",
+        "woj_nazwa": "DOLNO\u015aL\u0104SKIE",
+        "pow_nazwa": "ole\u015bnicki",
+        "gmi_nazwa": "Ole\u015bnica",
+        "mie_nazwa": "Ole\u015bnica",
+        "opis_zdarzenia": "Wywr\u00f3cenie si\u0119 pojazdu",
+        "uczestnicy": {
+            "252836503": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    },
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko",
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212186946,
+        "id_systemu_zr": "125782222"
+    },
+    "212187776": {
+        "wsp_gps_x": 19.4527777,
+        "wsp_gps_y": 51.785333,
+        "id_w_czas": "2023-11-09",
+        "czas_zdarzenia": "15:18",
+        "woj_nazwa": "\u0141\u00d3DZKIE",
+        "pow_nazwa": "\u0141\u00f3d\u017a",
+        "gmi_nazwa": "\u0141\u00f3d\u017a",
+        "mie_nazwa": "\u0141\u00f3d\u017a",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "253285383": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 212187776,
+        "id_systemu_zr": "125785746"
+    },
+    "212187677": {
+        "wsp_gps_x": 21.1069166,
+        "wsp_gps_y": 51.4843052,
+        "id_w_czas": "2023-11-04",
+        "czas_zdarzenia": "22:09",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "radomski",
+        "gmi_nazwa": "Jedli\u0144sk",
+        "mie_nazwa": "Piast\u00f3w",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "252971337": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Na miejscu"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 212187677,
+        "id_systemu_zr": "125781623"
+    },
+    "212187680": {
+        "wsp_gps_x": 19.8985552,
+        "wsp_gps_y": 49.8550277,
+        "id_w_czas": "2023-11-05",
+        "czas_zdarzenia": "03:50",
+        "woj_nazwa": "MA\u0141OPOLSKIE",
+        "pow_nazwa": "my\u015blenicki",
+        "gmi_nazwa": "My\u015blenice",
+        "mie_nazwa": "Jawornik",
+        "opis_zdarzenia": "Najechanie na barier\u0119 ochronn\u0105",
+        "uczestnicy": {
+            "253292708": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko",
+                            "Lekko"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212187680,
+        "id_systemu_zr": "125781644"
+    },
+    "212187914": {
+        "wsp_gps_x": 17.8041666,
+        "wsp_gps_y": 54.4252771,
+        "id_w_czas": "2023-11-11",
+        "czas_zdarzenia": "15:03",
+        "woj_nazwa": "POMORSKIE",
+        "pow_nazwa": "l\u0119borski",
+        "gmi_nazwa": "Cewice",
+        "mie_nazwa": "Bukowina",
+        "opis_zdarzenia": "Najechanie na drzewo",
+        "uczestnicy": {
+            "253198927": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    },
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212187914,
+        "id_systemu_zr": "125785970"
+    },
+    "212188227": {
+        "wsp_gps_x": 18.8831937,
+        "wsp_gps_y": 49.7411663,
+        "id_w_czas": "2023-11-06",
+        "czas_zdarzenia": "06:20",
+        "woj_nazwa": "\u015aL\u0104SKIE",
+        "pow_nazwa": "cieszy\u0144ski",
+        "gmi_nazwa": "Brenna",
+        "mie_nazwa": "Brenna",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w czo\u0142owe",
+        "uczestnicy": {
+            "253117494": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253117495": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253117493": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212188227,
+        "id_systemu_zr": "125783643"
+    },
+    "212188624": {
+        "wsp_gps_x": 18.6485274,
+        "wsp_gps_y": 54.2693048,
+        "id_w_czas": "2023-04-18",
+        "czas_zdarzenia": "06:52",
+        "woj_nazwa": "POMORSKIE",
+        "pow_nazwa": "gda\u0144ski",
+        "gmi_nazwa": "Pruszcz Gda\u0144ski",
+        "mie_nazwa": "Pruszcz Gda\u0144ski",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "253231484": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253231485": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            }
+        },
+        "zdarzenie_id": 212188624,
+        "id_systemu_zr": "125338448"
+    },
+    "212188652": {
+        "wsp_gps_x": 17.0241382,
+        "wsp_gps_y": 51.1128333,
+        "id_w_czas": "2023-10-04",
+        "czas_zdarzenia": "14:30",
+        "woj_nazwa": "DOLNO\u015aL\u0104SKIE",
+        "pow_nazwa": "Wroc\u0142aw",
+        "gmi_nazwa": "Wroc\u0142aw",
+        "mie_nazwa": "Wroc\u0142aw",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "253151069": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            },
+            "253151070": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            }
+        },
+        "zdarzenie_id": 212188652,
+        "id_systemu_zr": "125784475"
+    },
+    "212188800": {
+        "wsp_gps_x": 21.55875,
+        "wsp_gps_y": 51.3594444,
+        "id_w_czas": "2023-04-18",
+        "czas_zdarzenia": "13:30",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "zwole\u0144ski",
+        "gmi_nazwa": "Zwole\u0144",
+        "mie_nazwa": "Zwole\u0144",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "253296901": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253296902": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            }
+        },
+        "zdarzenie_id": 212188800,
+        "id_systemu_zr": "125338820"
+    },
+    "212189872": {
+        "wsp_gps_x": 19.1146666,
+        "wsp_gps_y": 50.1916385,
+        "id_w_czas": "2023-11-07",
+        "czas_zdarzenia": "16:05",
+        "woj_nazwa": "\u015aL\u0104SKIE",
+        "pow_nazwa": "Mys\u0142owice",
+        "gmi_nazwa": "Mys\u0142owice",
+        "mie_nazwa": "Mys\u0142owice",
+        "opis_zdarzenia": "Wywr\u00f3cenie si\u0119 pojazdu",
+        "uczestnicy": {
+            "252728592": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motocykl o poj. do 125 cm3 ( do 11 kw/0,1 KW/kg)"
+            }
+        },
+        "zdarzenie_id": 212189872,
+        "id_systemu_zr": "125786467"
+    },
+    "212189913": {
+        "wsp_gps_x": 20.0041388,
+        "wsp_gps_y": 50.0727493,
+        "id_w_czas": "2023-11-07",
+        "czas_zdarzenia": "17:45",
+        "woj_nazwa": "MA\u0141OPOLSKIE",
+        "pow_nazwa": "Krak\u00f3w",
+        "gmi_nazwa": "Krak\u00f3w",
+        "mie_nazwa": "Krak\u00f3w",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w czo\u0142owe",
+        "uczestnicy": {
+            "252985049": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            },
+            "252988858": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            }
+        },
+        "zdarzenie_id": 212189913,
+        "id_systemu_zr": "125786566"
+    },
+    "212189898": {
+        "wsp_gps_x": 22.0325548,
+        "wsp_gps_y": 50.0386663,
+        "id_w_czas": "2023-11-07",
+        "czas_zdarzenia": "17:12",
+        "woj_nazwa": "PODKARPACKIE",
+        "pow_nazwa": "Rzesz\u00f3w",
+        "gmi_nazwa": "Rzesz\u00f3w",
+        "mie_nazwa": "Rzesz\u00f3w",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "253035260": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 212189898,
+        "id_systemu_zr": "125786537"
+    },
+    "212190457": {
+        "wsp_gps_x": 16.7579444,
+        "wsp_gps_y": 52.3457496,
+        "id_w_czas": "2023-02-25",
+        "czas_zdarzenia": "11:30",
+        "woj_nazwa": "WIELKOPOLSKIE",
+        "pow_nazwa": "pozna\u0144ski",
+        "gmi_nazwa": "Komorniki",
+        "mie_nazwa": "G\u0142uchowo",
+        "opis_zdarzenia": "Najechanie na barier\u0119 ochronn\u0105",
+        "uczestnicy": {
+            "252759263": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212190457,
+        "id_systemu_zr": "124714141"
+    },
+    "212190472": {
+        "wsp_gps_x": 21.1056666,
+        "wsp_gps_y": 52.6888052,
+        "id_w_czas": "2023-11-08",
+        "czas_zdarzenia": "16:27",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "pu\u0142tuski",
+        "gmi_nazwa": "Pu\u0142tusk",
+        "mie_nazwa": "Pu\u0142tusk",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w czo\u0142owe",
+        "uczestnicy": {
+            "253027015": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253027016": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253027017": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    },
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212190472,
+        "id_systemu_zr": "125787539"
+    },
+    "212190853": {
+        "wsp_gps_x": 19.6971663,
+        "wsp_gps_y": 52.8710271,
+        "id_w_czas": "2023-11-11",
+        "czas_zdarzenia": "12:33",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "sierpecki",
+        "gmi_nazwa": "Sierpc",
+        "mie_nazwa": "Sierpc",
+        "opis_zdarzenia": "Wywr\u00f3cenie si\u0119 pojazdu",
+        "uczestnicy": {
+            "252959439": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Motocykl inny"
+            }
+        },
+        "zdarzenie_id": 212190853,
+        "id_systemu_zr": "125791304"
+    },
+    "212190864": {
+        "wsp_gps_x": 21.4731104,
+        "wsp_gps_y": 50.0679437,
+        "id_w_czas": "2023-11-09",
+        "czas_zdarzenia": "13:44",
+        "woj_nazwa": "PODKARPACKIE",
+        "pow_nazwa": "d\u0119bicki",
+        "gmi_nazwa": "D\u0119bica",
+        "mie_nazwa": "Zawada",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "253180835": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253180836": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212190864,
+        "id_systemu_zr": "125788345"
+    },
+    "212190865": {
+        "wsp_gps_x": 21.9679993,
+        "wsp_gps_y": 50.0118611,
+        "id_w_czas": "2023-11-09",
+        "czas_zdarzenia": "13:09",
+        "woj_nazwa": "PODKARPACKIE",
+        "pow_nazwa": "Rzesz\u00f3w",
+        "gmi_nazwa": "Rzesz\u00f3w",
+        "mie_nazwa": "Rzesz\u00f3w",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w czo\u0142owe",
+        "uczestnicy": {
+            "252788348": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252788349": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            }
+        },
+        "zdarzenie_id": 212190865,
+        "id_systemu_zr": "125788353"
+    },
+    "212191099": {
+        "wsp_gps_x": 20.2368885,
+        "wsp_gps_y": 52.2294437,
+        "id_w_czas": "2023-11-12",
+        "czas_zdarzenia": "01:28",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "sochaczewski",
+        "gmi_nazwa": "Sochaczew",
+        "mie_nazwa": "Sochaczew",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "253340576": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 212191099,
+        "id_systemu_zr": "125791689"
+    },
+    "212191100": {
+        "wsp_gps_x": 22.035583,
+        "wsp_gps_y": 50.5913052,
+        "id_w_czas": "2023-11-11",
+        "czas_zdarzenia": "23:03",
+        "woj_nazwa": "PODKARPACKIE",
+        "pow_nazwa": "stalowowolski",
+        "gmi_nazwa": "Stalowa Wola",
+        "mie_nazwa": "Stalowa Wola",
+        "opis_zdarzenia": "Najechanie na pojazd unieruchomiony",
+        "uczestnicy": {
+            "252762609": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko",
+                            "Lekko"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212191100,
+        "id_systemu_zr": "125791708"
+    },
+    "212191221": {
+        "wsp_gps_x": 18.6079166,
+        "wsp_gps_y": 54.3257771,
+        "id_w_czas": "2023-11-12",
+        "czas_zdarzenia": "14:00",
+        "woj_nazwa": "POMORSKIE",
+        "pow_nazwa": "Gda\u0144sk",
+        "gmi_nazwa": "Gda\u0144sk",
+        "mie_nazwa": "Gda\u0144sk",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "253210326": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 212191221,
+        "id_systemu_zr": "125791884"
+    },
+    "212191376": {
+        "wsp_gps_x": 23.783166,
+        "wsp_gps_y": 52.7006388,
+        "id_w_czas": "2023-04-20",
+        "czas_zdarzenia": "02:00",
+        "woj_nazwa": "PODLASKIE",
+        "pow_nazwa": "hajnowski",
+        "gmi_nazwa": "Bia\u0142owie\u017ca",
+        "mie_nazwa": "Pogorzelce",
+        "opis_zdarzenia": "Najechanie na drzewo",
+        "uczestnicy": {
+            "253341833": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko",
+                            "Ci\u0119\u017cko",
+                            "Ci\u0119\u017cko",
+                            "Ci\u0119\u017cko"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212191376,
+        "id_systemu_zr": "125450321"
+    },
+    "212191435": {
+        "wsp_gps_x": 19.3299437,
+        "wsp_gps_y": 52.1966941,
+        "id_w_czas": "2023-11-12",
+        "czas_zdarzenia": "21:50",
+        "woj_nazwa": "\u0141\u00d3DZKIE",
+        "pow_nazwa": "kutnowski",
+        "gmi_nazwa": "Kutno",
+        "mie_nazwa": "Bo\u017ca Wola",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "252865424": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Poci\u0105g"
+            },
+            "252865423": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212191435,
+        "id_systemu_zr": "125792208"
+    },
+    "212191490": {
+        "wsp_gps_x": 19.626416,
+        "wsp_gps_y": 53.5454163,
+        "id_w_czas": "2023-11-13",
+        "czas_zdarzenia": "04:40",
+        "woj_nazwa": "WARMI\u0143SKO-MAZURSKIE",
+        "pow_nazwa": "i\u0142awski",
+        "gmi_nazwa": "I\u0142awa",
+        "mie_nazwa": "Dziarn\u00f3wko",
+        "opis_zdarzenia": "Najechanie na zwierz\u0119",
+        "uczestnicy": {
+            "253147845": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212191490,
+        "id_systemu_zr": "125792281"
+    },
+    "212192128": {
+        "wsp_gps_x": 22.200812,
+        "wsp_gps_y": 49.566604,
+        "id_w_czas": "2023-11-09",
+        "czas_zdarzenia": "21:55",
+        "woj_nazwa": "PODKARPACKIE",
+        "pow_nazwa": "sanocki",
+        "gmi_nazwa": "Sanok",
+        "mie_nazwa": "Sanok",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            },
+            "252915341": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212192128,
+        "id_systemu_zr": "125793130"
+    },
+    "212192118": {
+        "wsp_gps_x": 21.888583,
+        "wsp_gps_y": 52.8046666,
+        "id_w_czas": "2023-11-11",
+        "czas_zdarzenia": "06:06",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "ostrowski",
+        "gmi_nazwa": "Ostr\u00f3w Mazowiecka",
+        "mie_nazwa": "Ostr\u00f3w Mazowiecka",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            },
+            "253343667": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212192118,
+        "id_systemu_zr": "125791136"
+    },
+    "212192109": {
+        "wsp_gps_x": 20.9863885,
+        "wsp_gps_y": 49.9986107,
+        "id_w_czas": "2023-11-13",
+        "czas_zdarzenia": "17:20",
+        "woj_nazwa": "MA\u0141OPOLSKIE",
+        "pow_nazwa": "Tarn\u00f3w",
+        "gmi_nazwa": "Tarn\u00f3w",
+        "mie_nazwa": "Tarn\u00f3w",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            },
+            "252713321": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212192109,
+        "id_systemu_zr": "125793065"
+    },
+    "212192137": {
+        "wsp_gps_x": 18.7388607,
+        "wsp_gps_y": 50.1293882,
+        "id_w_czas": "2023-11-13",
+        "czas_zdarzenia": "16:30",
+        "woj_nazwa": "\u015aL\u0104SKIE",
+        "pow_nazwa": "rybnicki",
+        "gmi_nazwa": "Czerwionka-Leszczyny",
+        "mie_nazwa": "Be\u0142k",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "252980665": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            },
+            "252980664": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212192137,
+        "id_systemu_zr": "125794109"
+    },
+    "212192136": {
+        "wsp_gps_x": 21.1909441,
+        "wsp_gps_y": 49.6856385,
+        "id_w_czas": "2023-11-13",
+        "czas_zdarzenia": "18:15",
+        "woj_nazwa": "MA\u0141OPOLSKIE",
+        "pow_nazwa": "gorlicki",
+        "gmi_nazwa": "Gorlice",
+        "mie_nazwa": "Gorlice",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "253241011": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 212192136,
+        "id_systemu_zr": "125794102"
+    },
+    "212196631": {
+        "wsp_gps_x": 18.7018611,
+        "wsp_gps_y": 50.0489441,
+        "id_w_czas": "2023-11-18",
+        "czas_zdarzenia": "00:40",
+        "woj_nazwa": "\u015aL\u0104SKIE",
+        "pow_nazwa": "\u017bory",
+        "gmi_nazwa": "\u017bory",
+        "mie_nazwa": "\u017bory",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "252763459": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Rower"
+            },
+            "252763460": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212196631,
+        "id_systemu_zr": "125800496"
+    },
+    "212196219": {
+        "wsp_gps_x": 19.5966107,
+        "wsp_gps_y": 51.2165555,
+        "id_w_czas": "2023-11-21",
+        "czas_zdarzenia": "18:50",
+        "woj_nazwa": "\u0141\u00d3DZKIE",
+        "pow_nazwa": "piotrkowski",
+        "gmi_nazwa": "Gorzkowice",
+        "mie_nazwa": "Gorzkowice",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            },
+            "252717137": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212196219,
+        "id_systemu_zr": "125801466"
+    },
+    "212196306": {
+        "wsp_gps_x": 16.3638888,
+        "wsp_gps_y": 50.9252771,
+        "id_w_czas": "2023-11-22",
+        "czas_zdarzenia": "12:34",
+        "woj_nazwa": "DOLNO\u015aL\u0104SKIE",
+        "pow_nazwa": "\u015bwidnicki",
+        "gmi_nazwa": "Strzegom",
+        "mie_nazwa": "Brak w danych \u017ar\u00f3d\u0142owych",
+        "opis_zdarzenia": "Wywr\u00f3cenie si\u0119 pojazdu",
+        "uczestnicy": {
+            "252966809": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212196306,
+        "id_systemu_zr": "125801683"
+    },
+    "212197029": {
+        "wsp_gps_x": 19.4267215,
+        "wsp_gps_y": 51.8137222,
+        "id_w_czas": "2023-11-20",
+        "czas_zdarzenia": "12:15",
+        "woj_nazwa": "\u0141\u00d3DZKIE",
+        "pow_nazwa": "\u0141\u00f3d\u017a",
+        "gmi_nazwa": "\u0141\u00f3d\u017a",
+        "mie_nazwa": "\u0141\u00f3d\u017a",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "252785965": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252785964": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252785963": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212197029,
+        "id_systemu_zr": "125801266"
+    },
+    "212197147": {
+        "wsp_gps_x": 14.5250548,
+        "wsp_gps_y": 53.4285826,
+        "id_w_czas": "2023-11-20",
+        "czas_zdarzenia": "11:35",
+        "woj_nazwa": "ZACHODNIOPOMORSKIE",
+        "pow_nazwa": "Szczecin",
+        "gmi_nazwa": "Szczecin",
+        "mie_nazwa": "Szczecin",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "252705002": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d ci\u0119\u017carowy DMC powy\u017cej 3,5 T"
+            },
+            "252705000": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    },
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko",
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252705001": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212197147,
+        "id_systemu_zr": "125803338"
+    },
+    "212198214": {
+        "wsp_gps_x": 20.4093055,
+        "wsp_gps_y": 50.6006111,
+        "id_w_czas": "2023-11-19",
+        "czas_zdarzenia": "17:45",
+        "woj_nazwa": "\u015aWI\u0118TOKRZYSKIE",
+        "pow_nazwa": "j\u0119drzejowski",
+        "gmi_nazwa": "Imielno",
+        "mie_nazwa": "Dzierszyn",
+        "opis_zdarzenia": "Wywr\u00f3cenie si\u0119 pojazdu",
+        "uczestnicy": {
+            "253268389": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Pojazd nieustalony"
+            },
+            "253268390": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212198214,
+        "id_systemu_zr": "125802517"
+    },
+    "212198179": {
+        "wsp_gps_x": 19.2844441,
+        "wsp_gps_y": 50.5862774,
+        "id_w_czas": "2023-02-27",
+        "czas_zdarzenia": "05:48",
+        "woj_nazwa": "\u015aL\u0104SKIE",
+        "pow_nazwa": "myszkowski",
+        "gmi_nazwa": "Kozieg\u0142owy",
+        "mie_nazwa": "Post\u0119p",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "252838806": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    },
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Lekko",
+                            "Lekko",
+                            "Lekko",
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252838807": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212198179,
+        "id_systemu_zr": "124722422"
+    },
+    "212198996": {
+        "wsp_gps_x": 18.647547,
+        "wsp_gps_y": 51.025674,
+        "id_w_czas": "2023-11-21",
+        "czas_zdarzenia": "14:35",
+        "woj_nazwa": "OPOLSKIE",
+        "pow_nazwa": "oleski",
+        "gmi_nazwa": "Rudniki",
+        "mie_nazwa": "Jaworzno",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w tylne",
+        "uczestnicy": {
+            "253243159": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253243161": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253243160": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212198996,
+        "id_systemu_zr": "125803788"
+    },
+    "212200347": {
+        "wsp_gps_x": 22.0218048,
+        "wsp_gps_y": 53.1112222,
+        "id_w_czas": "2023-11-23",
+        "czas_zdarzenia": "08:22",
+        "woj_nazwa": "PODLASKIE",
+        "pow_nazwa": "\u0142om\u017cy\u0144ski",
+        "gmi_nazwa": "\u0141om\u017ca",
+        "mie_nazwa": "Brak w danych \u017ar\u00f3d\u0142owych",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "253295712": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d ci\u0119\u017carowy DMC powy\u017cej 3,5 T"
+            },
+            "253295714": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "253295713": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    },
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212200347,
+        "id_systemu_zr": "125806287"
+    },
+    "212200273": {
+        "wsp_gps_x": 19.3401941,
+        "wsp_gps_y": 51.6566666,
+        "id_w_czas": "2023-11-26",
+        "czas_zdarzenia": "06:51",
+        "woj_nazwa": "\u0141\u00d3DZKIE",
+        "pow_nazwa": "pabianicki",
+        "gmi_nazwa": "Pabianice",
+        "mie_nazwa": "Pabianice",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "252749429": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            }
+        },
+        "zdarzenie_id": 212200273,
+        "id_systemu_zr": "125807835"
+    },
+    "212200324": {
+        "wsp_gps_x": 19.4935552,
+        "wsp_gps_y": 51.7471941,
+        "id_w_czas": "2023-11-22",
+        "czas_zdarzenia": "10:30",
+        "woj_nazwa": "\u0141\u00d3DZKIE",
+        "pow_nazwa": "\u0141\u00f3d\u017a",
+        "gmi_nazwa": "\u0141\u00f3d\u017a",
+        "mie_nazwa": "\u0141\u00f3d\u017a",
+        "opis_zdarzenia": "Najechanie na pieszego",
+        "uczestnicy": {
+            "": {
+                "ofiary": {
+                    "Pieszy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Nie dotyczy"
+            },
+            "253008078": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212200324,
+        "id_systemu_zr": "125806248"
+    },
+    "212204809": {
+        "wsp_gps_x": 21.6221104,
+        "wsp_gps_y": 49.9726937,
+        "id_w_czas": "2023-11-28",
+        "czas_zdarzenia": "21:38",
+        "woj_nazwa": "PODKARPACKIE",
+        "pow_nazwa": "ropczycko-s\u0119dziszowski",
+        "gmi_nazwa": "Wielopole Skrzy\u0144skie",
+        "mie_nazwa": "Wielopole Skrzy\u0144skie",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w czo\u0142owe",
+        "uczestnicy": {
+            "252656083": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252656082": {
+                "ofiary": {
+                    "Pasa\u017cer": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    },
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Brak obra\u017ce\u0144"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212204809,
+        "id_systemu_zr": "125814015"
+    },
+    "212204650": {
+        "wsp_gps_x": 18.3043888,
+        "wsp_gps_y": 52.7852774,
+        "id_w_czas": "2023-02-28",
+        "czas_zdarzenia": "18:15",
+        "woj_nazwa": "KUJAWSKO-POMORSKIE",
+        "pow_nazwa": "inowroc\u0142awski",
+        "gmi_nazwa": "Inowroc\u0142aw",
+        "mie_nazwa": "Jacewo",
+        "opis_zdarzenia": "Wywr\u00f3cenie si\u0119 pojazdu",
+        "uczestnicy": {
+            "252987861": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Ci\u0119\u017cko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212204650,
+        "id_systemu_zr": "124767585"
+    },
+    "212204587": {
+        "wsp_gps_x": 21.4991663,
+        "wsp_gps_y": 52.5878052,
+        "id_w_czas": "2023-11-28",
+        "czas_zdarzenia": "09:59",
+        "woj_nazwa": "MAZOWIECKIE",
+        "pow_nazwa": "wyszkowski",
+        "gmi_nazwa": "Wyszk\u00f3w",
+        "mie_nazwa": "Skuszew",
+        "opis_zdarzenia": "Zderzenie pojazd\u00f3w boczne",
+        "uczestnicy": {
+            "252924966": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            },
+            "252924967": {
+                "ofiary": {
+                    "Kieruj\u0105cy": {
+                        "obrazenia": [
+                            "Lekko"
+                        ]
+                    }
+                },
+                "opis_pojazdu": "Samoch\u00f3d osobowy"
+            }
+        },
+        "zdarzenie_id": 212204587,
+        "id_systemu_zr": "125813468"
+    }
+}

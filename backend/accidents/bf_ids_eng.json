@@ -1,0 +1,2968 @@
+{
+    "203244667": {
+        "gps_x": 21.2761937,
+        "gps_y": 52.1181104,
+        "date": "2021-07-08",
+        "time": "19:50",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "otwocki",
+        "municipality_name": "Otwock",
+        "place_name": "Otwock",
+        "event_description": "Zderzenie pojazdów czołowe",
+        "participants": {
+            "237400605": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "237400606": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Other motorcycle"
+            }
+        },
+        "event_id": 203244667,
+        "system_id": "110315995"
+    },
+    "203244670": {
+        "gps_x": 21.7456385,
+        "gps_y": 50.3770271,
+        "date": "2021-07-08",
+        "time": "16:31",
+        "province_name": "PODKARPACKIE",
+        "county_name": "kolbuszowski",
+        "municipality_name": "Majdan Królewski",
+        "place_name": "Majdan Królewski",
+        "event_description": "Zderzenie pojazdów tylne",
+        "participants": {
+            "236855539": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Truck over 3.5 T GVW"
+            },
+            "236855540": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    },
+                    "Passenger": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203244670,
+        "system_id": "110316000"
+    },
+    "203244685": {
+        "gps_x": 19.25925,
+        "gps_y": 50.1926663,
+        "date": "2021-07-26",
+        "time": "01:03",
+        "province_name": "ŚLĄSKIE",
+        "county_name": "Jaworzno",
+        "municipality_name": "Jaworzno",
+        "place_name": "Jaworzno",
+        "event_description": "Najechanie na drzewo",
+        "participants": {
+            "236702837": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203244685,
+        "system_id": "110342833"
+    },
+    "203244684": {
+        "gps_x": 23.4050555,
+        "gps_y": 51.3977218,
+        "date": "2021-07-25",
+        "time": "20:54",
+        "province_name": "LUBELSKIE",
+        "county_name": "włodawski",
+        "municipality_name": "Hańsk",
+        "place_name": "Hańsk Pierwszy",
+        "event_description": "Zderzenie pojazdów czołowe",
+        "participants": {
+            "237110117": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "237110116": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203244684,
+        "system_id": "110342817"
+    },
+    "203244686": {
+        "gps_x": 19.4650833,
+        "gps_y": 51.1740826,
+        "date": "2021-07-25",
+        "time": "22:50",
+        "province_name": "ŁÓDZKIE",
+        "county_name": "radomszczański",
+        "municipality_name": "Gomunice",
+        "place_name": "Słostowice",
+        "event_description": "Zderzenie pojazdów tylne",
+        "participants": {
+            "237298418": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Truck over 3.5 T GVW"
+            },
+            "237298419": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    },
+                    "Passenger": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203244686,
+        "system_id": "110342836"
+    },
+    "203244692": {
+        "gps_x": 22.5265271,
+        "gps_y": 53.7556944,
+        "date": "2021-07-25",
+        "time": "18:00",
+        "province_name": "WARMIŃSKO-MAZURSKIE",
+        "county_name": "ełcki",
+        "municipality_name": "Prostki",
+        "place_name": "Wiśniowo Ełckie",
+        "event_description": "Other",
+        "participants": {
+            "237181516": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "237181517": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Inny"
+            }
+        },
+        "event_id": 203244692,
+        "system_id": "110342860"
+    },
+    "203244718": {
+        "gps_x": 20.0382774,
+        "gps_y": 49.4869718,
+        "date": "2021-07-11",
+        "time": "10:20",
+        "province_name": "MAŁOPOLSKIE",
+        "county_name": "nowotarski",
+        "municipality_name": "Nowy Targ",
+        "place_name": "Nowy Targ",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "237328295": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            },
+            "237328296": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203244718,
+        "system_id": "110320598"
+    },
+    "203244719": {
+        "gps_x": 20.9115,
+        "gps_y": 53.3066666,
+        "date": "2021-07-11",
+        "time": "11:37",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "przasnyski",
+        "municipality_name": "Chorzele",
+        "place_name": "Opaleniec",
+        "event_description": "Other",
+        "participants": {
+            "236922569": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Other motorcycle"
+            },
+            "236922568": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "236922570": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Other motorcycle"
+            },
+            "236922571": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Other motorcycle"
+            },
+            "236922572": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Other motorcycle"
+            }
+        },
+        "event_id": 203244719,
+        "system_id": "110320605"
+    },
+    "203244755": {
+        "gps_x": 21.054752,
+        "gps_y": 52.194641,
+        "date": "2021-07-22",
+        "time": "20:26",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "Warszawa",
+        "municipality_name": "Warszawa",
+        "place_name": "Warszawa",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "237138105": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Pojazd nieustalony"
+            },
+            "237138106": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            }
+        },
+        "event_id": 203244755,
+        "system_id": "110343026"
+    },
+    "203244749": {
+        "gps_x": 14.5515277,
+        "gps_y": 53.4169437,
+        "date": "2021-07-24",
+        "time": "15:14",
+        "province_name": "ZACHODNIOPOMORSKIE",
+        "county_name": "Szczecin",
+        "municipality_name": "Szczecin",
+        "place_name": "Szczecin",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "237280353": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Other motorcycle"
+            },
+            "237280354": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Tram, trolleybus"
+            }
+        },
+        "event_id": 203244749,
+        "system_id": "110342974"
+    },
+    "203244774": {
+        "gps_x": 22.3655555,
+        "gps_y": 51.9213326,
+        "date": "2021-07-11",
+        "time": "15:12",
+        "province_name": "LUBELSKIE",
+        "county_name": "łukowski",
+        "municipality_name": "Łuków",
+        "place_name": "Łuków",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "236837812": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "236837811": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Other motorcycle"
+            }
+        },
+        "event_id": 203244774,
+        "system_id": "110320677"
+    },
+    "203245407": {
+        "gps_x": 17.0720826,
+        "gps_y": 52.3742215,
+        "date": "2021-07-09",
+        "time": "05:46",
+        "province_name": "WIELKOPOLSKIE",
+        "county_name": "poznański",
+        "municipality_name": "Swarzędz",
+        "place_name": "Garby",
+        "event_description": "Zderzenie pojazdów czołowe",
+        "participants": {
+            "237104235": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "237104234": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203245407,
+        "system_id": "110317642"
+    },
+    "203245397": {
+        "gps_x": 21.1176104,
+        "gps_y": 51.3958052,
+        "date": "2021-07-12",
+        "time": "16:44",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "Radom",
+        "municipality_name": "Radom",
+        "place_name": "Radom",
+        "event_description": "Zderzenie pojazdów tylne",
+        "participants": {
+            "236922576": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "236922575": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203245397,
+        "system_id": "110321713"
+    },
+    "203245405": {
+        "gps_x": 19.4789715,
+        "gps_y": 51.7610555,
+        "date": "2021-07-08",
+        "time": "15:14",
+        "province_name": "ŁÓDZKIE",
+        "county_name": "Łódź",
+        "municipality_name": "Łódź",
+        "place_name": "Łódź",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "236827070": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            },
+            "236827071": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203245405,
+        "system_id": "110317637"
+    },
+    "203245460": {
+        "gps_x": 15.4914441,
+        "gps_y": 51.9395274,
+        "date": "2021-07-26",
+        "time": "09:11",
+        "province_name": "LUBUSKIE",
+        "county_name": "Zielona Góra",
+        "municipality_name": "Zielona Góra",
+        "place_name": "Zielona Góra",
+        "event_description": "Zderzenie pojazdów tylne",
+        "participants": {
+            "236838821": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Autobus inny"
+            },
+            "236838820": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203245460,
+        "system_id": "110343445"
+    },
+    "203245517": {
+        "gps_x": 15.7616388,
+        "gps_y": 51.3578888,
+        "date": "2021-07-07",
+        "time": "11:37",
+        "province_name": "DOLNOŚLĄSKIE",
+        "county_name": "bolesławiecki",
+        "municipality_name": "Gromadka",
+        "place_name": "Gromadka",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "237380890": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "237380891": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Motorower"
+            }
+        },
+        "event_id": 203245517,
+        "system_id": "110321866"
+    },
+    "203245656": {
+        "gps_x": 18.7884163,
+        "gps_y": 54.0948607,
+        "date": "2021-07-09",
+        "time": "14:13",
+        "province_name": "POMORSKIE",
+        "county_name": "tczewski",
+        "municipality_name": "Tczew",
+        "place_name": "Tczew",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "237058881": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Truck up to 3.5 T GVW"
+            },
+            "237058882": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            }
+        },
+        "event_id": 203245656,
+        "system_id": "110318083"
+    },
+    "203245642": {
+        "gps_x": 22.12033,
+        "gps_y": 50.230652,
+        "date": "2021-07-07",
+        "time": "06:59",
+        "province_name": "PODKARPACKIE",
+        "county_name": "rzeszowski",
+        "municipality_name": "Sokołów Małopolski",
+        "place_name": "Sokołów Małopolski",
+        "event_description": "Najechanie na słup, znak",
+        "participants": {
+            "236782747": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203245642,
+        "system_id": "110322034"
+    },
+    "203245645": {
+        "gps_x": 15.2871663,
+        "gps_y": 50.9867496,
+        "date": "2021-07-09",
+        "time": "13:35",
+        "province_name": "DOLNOŚLĄSKIE",
+        "county_name": "lubański",
+        "municipality_name": "Leśna",
+        "place_name": "Świecie",
+        "event_description": "Wywrócenie się pojazdu",
+        "participants": {
+            "237089579": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Na miejscu"
+                        ]
+                    }
+                },
+                "vehicle_description": "Ciągnik rolniczy"
+            }
+        },
+        "event_id": 203245645,
+        "system_id": "110322044"
+    },
+    "203245804": {
+        "gps_x": 20.3242771,
+        "gps_y": 50.5193882,
+        "date": "2021-07-09",
+        "time": "13:10",
+        "province_name": "ŚWIĘTOKRZYSKIE",
+        "county_name": "jędrzejowski",
+        "municipality_name": "Wodzisław",
+        "place_name": "Niegosławice",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "237072110": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "237072111": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203245804,
+        "system_id": "110318283"
+    },
+    "203245906": {
+        "gps_x": 19.823166,
+        "gps_y": 49.8248882,
+        "date": "2021-07-26",
+        "time": "17:19",
+        "province_name": "MAŁOPOLSKIE",
+        "county_name": "myślenicki",
+        "municipality_name": "Sułkowice",
+        "place_name": "Sułkowice",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "236949325": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "236949324": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            }
+        },
+        "event_id": 203245906,
+        "system_id": "110344581"
+    },
+    "203504678": {
+        "gps_x": 21.155,
+        "gps_y": 50.9998607,
+        "date": "2021-12-15",
+        "time": "16:22",
+        "province_name": "ŚWIĘTOKRZYSKIE",
+        "county_name": "starachowicki",
+        "municipality_name": "Brody",
+        "place_name": "Styków",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "236766606": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 203504678,
+        "system_id": "116680823"
+    },
+    "203443159": {
+        "gps_x": 20.2595277,
+        "gps_y": 51.7644722,
+        "date": "2021-06-07",
+        "time": "15:28",
+        "province_name": "ŁÓDZKIE",
+        "county_name": "rawski",
+        "municipality_name": "Rawa Mazowiecka",
+        "place_name": "Rawa Mazowiecka",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "237262891": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Other motorcycle"
+            },
+            "237262892": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 203443159,
+        "system_id": "110257215"
+    },
+    "203443154": {
+        "gps_x": 21.7860552,
+        "gps_y": 50.721666,
+        "date": "2021-06-07",
+        "time": "16:57",
+        "province_name": "ŚWIĘTOKRZYSKIE",
+        "county_name": "sandomierski",
+        "municipality_name": "Dwikozy",
+        "place_name": "Dwikozy",
+        "event_description": "Zderzenie pojazdów tylne",
+        "participants": {
+            "237011778": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "237011777": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Na miejscu"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            }
+        },
+        "event_id": 203443154,
+        "system_id": "110257193"
+    },
+    "203443157": {
+        "gps_x": 17.05025,
+        "gps_y": 54.6657777,
+        "date": "2021-06-07",
+        "time": "16:45",
+        "province_name": "POMORSKIE",
+        "county_name": "słupski",
+        "municipality_name": "Ustka",
+        "place_name": "Rowy",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "237370260": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Inny"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 203443157,
+        "system_id": "110257206"
+    },
+    "212192950": {
+        "gps_x": 19.511361,
+        "gps_y": 50.000438,
+        "date": "2023-11-13",
+        "time": "10:40",
+        "province_name": "MAŁOPOLSKIE",
+        "county_name": "wadowicki",
+        "municipality_name": "Spytkowice",
+        "place_name": "Spytkowice",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "252961348": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 212192950,
+        "system_id": "125792752"
+    },
+    "212185972": {
+        "gps_x": 21.0224993,
+        "gps_y": 52.0672771,
+        "date": "2023-11-03",
+        "time": "21:56",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "piaseczyński",
+        "municipality_name": "Piaseczno",
+        "place_name": "Piaseczno",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            },
+            "253055027": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212185972,
+        "system_id": "125780145"
+    },
+    "212186004": {
+        "gps_x": 22.1971663,
+        "gps_y": 51.8720271,
+        "date": "2023-11-02",
+        "time": "10:24",
+        "province_name": "LUBELSKIE",
+        "county_name": "łukowski",
+        "municipality_name": "Stanin",
+        "place_name": "Stanin",
+        "event_description": "Zderzenie pojazdów tylne",
+        "participants": {
+            "252699704": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252699705": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            }
+        },
+        "event_id": 212186004,
+        "system_id": "125777960"
+    },
+    "212186025": {
+        "gps_x": 17.068666,
+        "gps_y": 51.1368885,
+        "date": "2023-11-02",
+        "time": "11:12",
+        "province_name": "DOLNOŚLĄSKIE",
+        "county_name": "Wrocław",
+        "municipality_name": "Wrocław",
+        "place_name": "Wrocław",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "252888691": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252888692": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            }
+        },
+        "event_id": 212186025,
+        "system_id": "125778002"
+    },
+    "212186257": {
+        "gps_x": 17.1303604,
+        "gps_y": 51.1519166,
+        "date": "2023-11-03",
+        "time": "17:26",
+        "province_name": "DOLNOŚLĄSKIE",
+        "county_name": "Wrocław",
+        "municipality_name": "Wrocław",
+        "place_name": "Wrocław",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "252738167": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 212186257,
+        "system_id": "125780722"
+    },
+    "212186245": {
+        "gps_x": 16.6795548,
+        "gps_y": 50.4336107,
+        "date": "2023-11-02",
+        "time": "17:14",
+        "province_name": "DOLNOŚLĄSKIE",
+        "county_name": "kłodzki",
+        "municipality_name": "Kłodzko",
+        "place_name": "Kłodzko",
+        "event_description": "Najechanie na zwierzę",
+        "participants": {
+            "252865277": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Other motorcycle"
+            }
+        },
+        "event_id": 212186245,
+        "system_id": "125778443"
+    },
+    "212186262": {
+        "gps_x": 15.8234993,
+        "gps_y": 54.0362218,
+        "date": "2023-11-03",
+        "time": "18:02",
+        "province_name": "ZACHODNIOPOMORSKIE",
+        "county_name": "białogardzki",
+        "municipality_name": "Karlino",
+        "place_name": "Brak w danych źródłowych",
+        "event_description": "Zderzenie pojazdów czołowe",
+        "participants": {
+            "252761575": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252761576": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212186262,
+        "system_id": "125780736"
+    },
+    "212186302": {
+        "gps_x": 17.0185826,
+        "gps_y": 51.0769437,
+        "date": "2023-09-12",
+        "time": "13:40",
+        "province_name": "DOLNOŚLĄSKIE",
+        "county_name": "Wrocław",
+        "municipality_name": "Wrocław",
+        "place_name": "Wrocław",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            },
+            "252851507": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212186302,
+        "system_id": "125780804"
+    },
+    "212186322": {
+        "gps_x": 19.5659444,
+        "gps_y": 52.4544722,
+        "date": "2023-11-04",
+        "time": "09:10",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "płocki",
+        "municipality_name": "Łąck",
+        "place_name": "Wola Łącka",
+        "event_description": "Zderzenie pojazdów czołowe",
+        "participants": {
+            "252743419": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252743420": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212186322,
+        "system_id": "125780851"
+    },
+    "212186411": {
+        "gps_x": 21.7833885,
+        "gps_y": 54.0503333,
+        "date": "2023-11-02",
+        "time": "15:00",
+        "province_name": "WARMIŃSKO-MAZURSKIE",
+        "county_name": "giżycki",
+        "municipality_name": "Giżycko",
+        "place_name": "Gajewo",
+        "event_description": "Zderzenie pojazdów tylne",
+        "participants": {
+            "253093556": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253093557": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212186411,
+        "system_id": "125778791"
+    },
+    "212186400": {
+        "gps_x": 20.763119,
+        "gps_y": 52.413677,
+        "date": "2023-11-04",
+        "time": "15:32",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "legionowski",
+        "municipality_name": "Jabłonna",
+        "place_name": "Boża Wola",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "253297846": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    },
+                    "Passenger": {
+                        "injuries": [
+                            "Minor",
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253297845": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    },
+                    "Passenger": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212186400,
+        "system_id": "125781006"
+    },
+    "212186581": {
+        "gps_x": 22.3441663,
+        "gps_y": 50.7346385,
+        "date": "2023-11-05",
+        "time": "20:28",
+        "province_name": "LUBELSKIE",
+        "county_name": "janowski",
+        "municipality_name": "Modliborzyce",
+        "place_name": "Modliborzyce",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "253276400": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253276401": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212186581,
+        "system_id": "125781430"
+    },
+    "212186591": {
+        "gps_x": 20.4697215,
+        "gps_y": 53.7758882,
+        "date": "2023-11-03",
+        "time": "18:35",
+        "province_name": "WARMIŃSKO-MAZURSKIE",
+        "county_name": "Olsztyn",
+        "municipality_name": "Olsztyn",
+        "place_name": "Olsztyn",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            },
+            "252743370": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212186591,
+        "system_id": "125778987"
+    },
+    "212186972": {
+        "gps_x": 19.890583,
+        "gps_y": 50.0809715,
+        "date": "2023-11-03",
+        "time": "19:19",
+        "province_name": "MAŁOPOLSKIE",
+        "county_name": "Kraków",
+        "municipality_name": "Kraków",
+        "place_name": "Kraków",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "252843525": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 212186972,
+        "system_id": "125780146"
+    },
+    "212186938": {
+        "gps_x": 18.9956385,
+        "gps_y": 50.2709437,
+        "date": "2023-11-03",
+        "time": "19:01",
+        "province_name": "ŚLĄSKIE",
+        "county_name": "Katowice",
+        "municipality_name": "Katowice",
+        "place_name": "Katowice",
+        "event_description": "Najechanie na barierę ochronną",
+        "participants": {
+            "252656783": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212186938,
+        "system_id": "125780101"
+    },
+    "212186948": {
+        "gps_x": 20.65475,
+        "gps_y": 50.8924163,
+        "date": "2023-11-06",
+        "time": "11:35",
+        "province_name": "ŚWIĘTOKRZYSKIE",
+        "county_name": "Kielce",
+        "municipality_name": "Kielce",
+        "place_name": "Kielce",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "252986327": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252986328": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252986329": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212186948,
+        "system_id": "125782224"
+    },
+    "212186946": {
+        "gps_x": 17.5078611,
+        "gps_y": 51.1843885,
+        "date": "2023-11-06",
+        "time": "11:39",
+        "province_name": "DOLNOŚLĄSKIE",
+        "county_name": "oleśnicki",
+        "municipality_name": "Oleśnica",
+        "place_name": "Oleśnica",
+        "event_description": "Wywrócenie się pojazdu",
+        "participants": {
+            "252836503": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    },
+                    "Passenger": {
+                        "injuries": [
+                            "Severe",
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212186946,
+        "system_id": "125782222"
+    },
+    "212187776": {
+        "gps_x": 19.4527777,
+        "gps_y": 51.785333,
+        "date": "2023-11-09",
+        "time": "15:18",
+        "province_name": "ŁÓDZKIE",
+        "county_name": "Łódź",
+        "municipality_name": "Łódź",
+        "place_name": "Łódź",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "253285383": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 212187776,
+        "system_id": "125785746"
+    },
+    "212187677": {
+        "gps_x": 21.1069166,
+        "gps_y": 51.4843052,
+        "date": "2023-11-04",
+        "time": "22:09",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "radomski",
+        "municipality_name": "Jedlińsk",
+        "place_name": "Piastów",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "252971337": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Na miejscu"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 212187677,
+        "system_id": "125781623"
+    },
+    "212187680": {
+        "gps_x": 19.8985552,
+        "gps_y": 49.8550277,
+        "date": "2023-11-05",
+        "time": "03:50",
+        "province_name": "MAŁOPOLSKIE",
+        "county_name": "myślenicki",
+        "municipality_name": "Myślenice",
+        "place_name": "Jawornik",
+        "event_description": "Najechanie na barierę ochronną",
+        "participants": {
+            "253292708": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "Severe",
+                            "Minor"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212187680,
+        "system_id": "125781644"
+    },
+    "212187914": {
+        "gps_x": 17.8041666,
+        "gps_y": 54.4252771,
+        "date": "2023-11-11",
+        "time": "15:03",
+        "province_name": "POMORSKIE",
+        "county_name": "lęborski",
+        "municipality_name": "Cewice",
+        "place_name": "Bukowina",
+        "event_description": "Najechanie na drzewo",
+        "participants": {
+            "253198927": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    },
+                    "Passenger": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212187914,
+        "system_id": "125785970"
+    },
+    "212188227": {
+        "gps_x": 18.8831937,
+        "gps_y": 49.7411663,
+        "date": "2023-11-06",
+        "time": "06:20",
+        "province_name": "ŚLĄSKIE",
+        "county_name": "cieszyński",
+        "municipality_name": "Brenna",
+        "place_name": "Brenna",
+        "event_description": "Zderzenie pojazdów czołowe",
+        "participants": {
+            "253117494": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253117495": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253117493": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212188227,
+        "system_id": "125783643"
+    },
+    "212188624": {
+        "gps_x": 18.6485274,
+        "gps_y": 54.2693048,
+        "date": "2023-04-18",
+        "time": "06:52",
+        "province_name": "POMORSKIE",
+        "county_name": "gdański",
+        "municipality_name": "Pruszcz Gdański",
+        "place_name": "Pruszcz Gdański",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "253231484": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253231485": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            }
+        },
+        "event_id": 212188624,
+        "system_id": "125338448"
+    },
+    "212188652": {
+        "gps_x": 17.0241382,
+        "gps_y": 51.1128333,
+        "date": "2023-10-04",
+        "time": "14:30",
+        "province_name": "DOLNOŚLĄSKIE",
+        "county_name": "Wrocław",
+        "municipality_name": "Wrocław",
+        "place_name": "Wrocław",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "253151069": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            },
+            "253151070": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            }
+        },
+        "event_id": 212188652,
+        "system_id": "125784475"
+    },
+    "212188800": {
+        "gps_x": 21.55875,
+        "gps_y": 51.3594444,
+        "date": "2023-04-18",
+        "time": "13:30",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "zwoleński",
+        "municipality_name": "Zwoleń",
+        "place_name": "Zwoleń",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "253296901": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253296902": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            }
+        },
+        "event_id": 212188800,
+        "system_id": "125338820"
+    },
+    "212189872": {
+        "gps_x": 19.1146666,
+        "gps_y": 50.1916385,
+        "date": "2023-11-07",
+        "time": "16:05",
+        "province_name": "ŚLĄSKIE",
+        "county_name": "Mysłowice",
+        "municipality_name": "Mysłowice",
+        "place_name": "Mysłowice",
+        "event_description": "Wywrócenie się pojazdu",
+        "participants": {
+            "252728592": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Motorcycle up to 125 cc (up to 11 kw/0.1 KW/kg)"
+            }
+        },
+        "event_id": 212189872,
+        "system_id": "125786467"
+    },
+    "212189913": {
+        "gps_x": 20.0041388,
+        "gps_y": 50.0727493,
+        "date": "2023-11-07",
+        "time": "17:45",
+        "province_name": "MAŁOPOLSKIE",
+        "county_name": "Kraków",
+        "municipality_name": "Kraków",
+        "place_name": "Kraków",
+        "event_description": "Zderzenie pojazdów czołowe",
+        "participants": {
+            "252985049": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            },
+            "252988858": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            }
+        },
+        "event_id": 212189913,
+        "system_id": "125786566"
+    },
+    "212189898": {
+        "gps_x": 22.0325548,
+        "gps_y": 50.0386663,
+        "date": "2023-11-07",
+        "time": "17:12",
+        "province_name": "PODKARPACKIE",
+        "county_name": "Rzeszów",
+        "municipality_name": "Rzeszów",
+        "place_name": "Rzeszów",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "253035260": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 212189898,
+        "system_id": "125786537"
+    },
+    "212190457": {
+        "gps_x": 16.7579444,
+        "gps_y": 52.3457496,
+        "date": "2023-02-25",
+        "time": "11:30",
+        "province_name": "WIELKOPOLSKIE",
+        "county_name": "poznański",
+        "municipality_name": "Komorniki",
+        "place_name": "Głuchowo",
+        "event_description": "Najechanie na barierę ochronną",
+        "participants": {
+            "252759263": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212190457,
+        "system_id": "124714141"
+    },
+    "212190472": {
+        "gps_x": 21.1056666,
+        "gps_y": 52.6888052,
+        "date": "2023-11-08",
+        "time": "16:27",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "pułtuski",
+        "municipality_name": "Pułtusk",
+        "place_name": "Pułtusk",
+        "event_description": "Zderzenie pojazdów czołowe",
+        "participants": {
+            "253027015": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253027016": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253027017": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    },
+                    "Passenger": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212190472,
+        "system_id": "125787539"
+    },
+    "212190853": {
+        "gps_x": 19.6971663,
+        "gps_y": 52.8710271,
+        "date": "2023-11-11",
+        "time": "12:33",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "sierpecki",
+        "municipality_name": "Sierpc",
+        "place_name": "Sierpc",
+        "event_description": "Wywrócenie się pojazdu",
+        "participants": {
+            "252959439": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Other motorcycle"
+            }
+        },
+        "event_id": 212190853,
+        "system_id": "125791304"
+    },
+    "212190864": {
+        "gps_x": 21.4731104,
+        "gps_y": 50.0679437,
+        "date": "2023-11-09",
+        "time": "13:44",
+        "province_name": "PODKARPACKIE",
+        "county_name": "dębicki",
+        "municipality_name": "Dębica",
+        "place_name": "Zawada",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "253180835": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253180836": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212190864,
+        "system_id": "125788345"
+    },
+    "212190865": {
+        "gps_x": 21.9679993,
+        "gps_y": 50.0118611,
+        "date": "2023-11-09",
+        "time": "13:09",
+        "province_name": "PODKARPACKIE",
+        "county_name": "Rzeszów",
+        "municipality_name": "Rzeszów",
+        "place_name": "Rzeszów",
+        "event_description": "Zderzenie pojazdów czołowe",
+        "participants": {
+            "252788348": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252788349": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            }
+        },
+        "event_id": 212190865,
+        "system_id": "125788353"
+    },
+    "212191099": {
+        "gps_x": 20.2368885,
+        "gps_y": 52.2294437,
+        "date": "2023-11-12",
+        "time": "01:28",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "sochaczewski",
+        "municipality_name": "Sochaczew",
+        "place_name": "Sochaczew",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "253340576": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 212191099,
+        "system_id": "125791689"
+    },
+    "212191100": {
+        "gps_x": 22.035583,
+        "gps_y": 50.5913052,
+        "date": "2023-11-11",
+        "time": "23:03",
+        "province_name": "PODKARPACKIE",
+        "county_name": "stalowowolski",
+        "municipality_name": "Stalowa Wola",
+        "place_name": "Stalowa Wola",
+        "event_description": "Najechanie na pojazd unieruchomiony",
+        "participants": {
+            "252762609": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "Severe",
+                            "Minor"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212191100,
+        "system_id": "125791708"
+    },
+    "212191221": {
+        "gps_x": 18.6079166,
+        "gps_y": 54.3257771,
+        "date": "2023-11-12",
+        "time": "14:00",
+        "province_name": "POMORSKIE",
+        "county_name": "Gdańsk",
+        "municipality_name": "Gdańsk",
+        "place_name": "Gdańsk",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "253210326": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 212191221,
+        "system_id": "125791884"
+    },
+    "212191376": {
+        "gps_x": 23.783166,
+        "gps_y": 52.7006388,
+        "date": "2023-04-20",
+        "time": "02:00",
+        "province_name": "PODLASKIE",
+        "county_name": "hajnowski",
+        "municipality_name": "Białowieża",
+        "place_name": "Pogorzelce",
+        "event_description": "Najechanie na drzewo",
+        "participants": {
+            "253341833": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "Severe",
+                            "Severe",
+                            "Severe",
+                            "Severe"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212191376,
+        "system_id": "125450321"
+    },
+    "212191435": {
+        "gps_x": 19.3299437,
+        "gps_y": 52.1966941,
+        "date": "2023-11-12",
+        "time": "21:50",
+        "province_name": "ŁÓDZKIE",
+        "county_name": "kutnowski",
+        "municipality_name": "Kutno",
+        "place_name": "Boża Wola",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "252865424": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Pociąg"
+            },
+            "252865423": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212191435,
+        "system_id": "125792208"
+    },
+    "212191490": {
+        "gps_x": 19.626416,
+        "gps_y": 53.5454163,
+        "date": "2023-11-13",
+        "time": "04:40",
+        "province_name": "WARMIŃSKO-MAZURSKIE",
+        "county_name": "iławski",
+        "municipality_name": "Iława",
+        "place_name": "Dziarnówko",
+        "event_description": "Najechanie na zwierzę",
+        "participants": {
+            "253147845": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212191490,
+        "system_id": "125792281"
+    },
+    "212192128": {
+        "gps_x": 22.200812,
+        "gps_y": 49.566604,
+        "date": "2023-11-09",
+        "time": "21:55",
+        "province_name": "PODKARPACKIE",
+        "county_name": "sanocki",
+        "municipality_name": "Sanok",
+        "place_name": "Sanok",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            },
+            "252915341": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212192128,
+        "system_id": "125793130"
+    },
+    "212192118": {
+        "gps_x": 21.888583,
+        "gps_y": 52.8046666,
+        "date": "2023-11-11",
+        "time": "06:06",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "ostrowski",
+        "municipality_name": "Ostrów Mazowiecka",
+        "place_name": "Ostrów Mazowiecka",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            },
+            "253343667": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212192118,
+        "system_id": "125791136"
+    },
+    "212192109": {
+        "gps_x": 20.9863885,
+        "gps_y": 49.9986107,
+        "date": "2023-11-13",
+        "time": "17:20",
+        "province_name": "MAŁOPOLSKIE",
+        "county_name": "Tarnów",
+        "municipality_name": "Tarnów",
+        "place_name": "Tarnów",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            },
+            "252713321": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212192109,
+        "system_id": "125793065"
+    },
+    "212192137": {
+        "gps_x": 18.7388607,
+        "gps_y": 50.1293882,
+        "date": "2023-11-13",
+        "time": "16:30",
+        "province_name": "ŚLĄSKIE",
+        "county_name": "rybnicki",
+        "municipality_name": "Czerwionka-Leszczyny",
+        "place_name": "Bełk",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "252980665": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            },
+            "252980664": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212192137,
+        "system_id": "125794109"
+    },
+    "212192136": {
+        "gps_x": 21.1909441,
+        "gps_y": 49.6856385,
+        "date": "2023-11-13",
+        "time": "18:15",
+        "province_name": "MAŁOPOLSKIE",
+        "county_name": "gorlicki",
+        "municipality_name": "Gorlice",
+        "place_name": "Gorlice",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "253241011": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 212192136,
+        "system_id": "125794102"
+    },
+    "212196631": {
+        "gps_x": 18.7018611,
+        "gps_y": 50.0489441,
+        "date": "2023-11-18",
+        "time": "00:40",
+        "province_name": "ŚLĄSKIE",
+        "county_name": "Żory",
+        "municipality_name": "Żory",
+        "place_name": "Żory",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "252763459": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Bicycle"
+            },
+            "252763460": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212196631,
+        "system_id": "125800496"
+    },
+    "212196219": {
+        "gps_x": 19.5966107,
+        "gps_y": 51.2165555,
+        "date": "2023-11-21",
+        "time": "18:50",
+        "province_name": "ŁÓDZKIE",
+        "county_name": "piotrkowski",
+        "municipality_name": "Gorzkowice",
+        "place_name": "Gorzkowice",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            },
+            "252717137": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212196219,
+        "system_id": "125801466"
+    },
+    "212196306": {
+        "gps_x": 16.3638888,
+        "gps_y": 50.9252771,
+        "date": "2023-11-22",
+        "time": "12:34",
+        "province_name": "DOLNOŚLĄSKIE",
+        "county_name": "świdnicki",
+        "municipality_name": "Strzegom",
+        "place_name": "Brak w danych źródłowych",
+        "event_description": "Wywrócenie się pojazdu",
+        "participants": {
+            "252966809": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212196306,
+        "system_id": "125801683"
+    },
+    "212197029": {
+        "gps_x": 19.4267215,
+        "gps_y": 51.8137222,
+        "date": "2023-11-20",
+        "time": "12:15",
+        "province_name": "ŁÓDZKIE",
+        "county_name": "Łódź",
+        "municipality_name": "Łódź",
+        "place_name": "Łódź",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "252785965": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252785964": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252785963": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212197029,
+        "system_id": "125801266"
+    },
+    "212197147": {
+        "gps_x": 14.5250548,
+        "gps_y": 53.4285826,
+        "date": "2023-11-20",
+        "time": "11:35",
+        "province_name": "ZACHODNIOPOMORSKIE",
+        "county_name": "Szczecin",
+        "municipality_name": "Szczecin",
+        "place_name": "Szczecin",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "252705002": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Truck over 3.5 T GVW"
+            },
+            "252705000": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    },
+                    "Passenger": {
+                        "injuries": [
+                            "Severe",
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252705001": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212197147,
+        "system_id": "125803338"
+    },
+    "212198214": {
+        "gps_x": 20.4093055,
+        "gps_y": 50.6006111,
+        "date": "2023-11-19",
+        "time": "17:45",
+        "province_name": "ŚWIĘTOKRZYSKIE",
+        "county_name": "jędrzejowski",
+        "municipality_name": "Imielno",
+        "place_name": "Dzierszyn",
+        "event_description": "Wywrócenie się pojazdu",
+        "participants": {
+            "253268389": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Pojazd nieustalony"
+            },
+            "253268390": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212198214,
+        "system_id": "125802517"
+    },
+    "212198179": {
+        "gps_x": 19.2844441,
+        "gps_y": 50.5862774,
+        "date": "2023-02-27",
+        "time": "05:48",
+        "province_name": "ŚLĄSKIE",
+        "county_name": "myszkowski",
+        "municipality_name": "Koziegłowy",
+        "place_name": "Postęp",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "252838806": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    },
+                    "Passenger": {
+                        "injuries": [
+                            "Minor",
+                            "Minor",
+                            "Minor",
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252838807": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212198179,
+        "system_id": "124722422"
+    },
+    "212198996": {
+        "gps_x": 18.647547,
+        "gps_y": 51.025674,
+        "date": "2023-11-21",
+        "time": "14:35",
+        "province_name": "OPOLSKIE",
+        "county_name": "oleski",
+        "municipality_name": "Rudniki",
+        "place_name": "Jaworzno",
+        "event_description": "Zderzenie pojazdów tylne",
+        "participants": {
+            "253243159": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253243161": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253243160": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212198996,
+        "system_id": "125803788"
+    },
+    "212200347": {
+        "gps_x": 22.0218048,
+        "gps_y": 53.1112222,
+        "date": "2023-11-23",
+        "time": "08:22",
+        "province_name": "PODLASKIE",
+        "county_name": "łomżyński",
+        "municipality_name": "Łomża",
+        "place_name": "Brak w danych źródłowych",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "253295712": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Truck over 3.5 T GVW"
+            },
+            "253295714": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "253295713": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    },
+                    "Passenger": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212200347,
+        "system_id": "125806287"
+    },
+    "212200273": {
+        "gps_x": 19.3401941,
+        "gps_y": 51.6566666,
+        "date": "2023-11-26",
+        "time": "06:51",
+        "province_name": "ŁÓDZKIE",
+        "county_name": "pabianicki",
+        "municipality_name": "Pabianice",
+        "place_name": "Pabianice",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "252749429": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            }
+        },
+        "event_id": 212200273,
+        "system_id": "125807835"
+    },
+    "212200324": {
+        "gps_x": 19.4935552,
+        "gps_y": 51.7471941,
+        "date": "2023-11-22",
+        "time": "10:30",
+        "province_name": "ŁÓDZKIE",
+        "county_name": "Łódź",
+        "municipality_name": "Łódź",
+        "place_name": "Łódź",
+        "event_description": "Najechanie na pieszego",
+        "participants": {
+            "": {
+                "victims": {
+                    "Pieszy": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Not applicable"
+            },
+            "253008078": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212200324,
+        "system_id": "125806248"
+    },
+    "212204809": {
+        "gps_x": 21.6221104,
+        "gps_y": 49.9726937,
+        "date": "2023-11-28",
+        "time": "21:38",
+        "province_name": "PODKARPACKIE",
+        "county_name": "ropczycko-sędziszowski",
+        "municipality_name": "Wielopole Skrzyńskie",
+        "place_name": "Wielopole Skrzyńskie",
+        "event_description": "Zderzenie pojazdów czołowe",
+        "participants": {
+            "252656083": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252656082": {
+                "victims": {
+                    "Passenger": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    },
+                    "Driver": {
+                        "injuries": [
+                            "No injuries"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212204809,
+        "system_id": "125814015"
+    },
+    "212204650": {
+        "gps_x": 18.3043888,
+        "gps_y": 52.7852774,
+        "date": "2023-02-28",
+        "time": "18:15",
+        "province_name": "KUJAWSKO-POMORSKIE",
+        "county_name": "inowrocławski",
+        "municipality_name": "Inowrocław",
+        "place_name": "Jacewo",
+        "event_description": "Wywrócenie się pojazdu",
+        "participants": {
+            "252987861": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Severe"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212204650,
+        "system_id": "124767585"
+    },
+    "212204587": {
+        "gps_x": 21.4991663,
+        "gps_y": 52.5878052,
+        "date": "2023-11-28",
+        "time": "09:59",
+        "province_name": "MAZOWIECKIE",
+        "county_name": "wyszkowski",
+        "municipality_name": "Wyszków",
+        "place_name": "Skuszew",
+        "event_description": "Zderzenie pojazdów boczne",
+        "participants": {
+            "252924966": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            },
+            "252924967": {
+                "victims": {
+                    "Driver": {
+                        "injuries": [
+                            "Minor"
+                        ]
+                    }
+                },
+                "vehicle_description": "Passenger car"
+            }
+        },
+        "event_id": 212204587,
+        "system_id": "125813468"
+    }
+}
