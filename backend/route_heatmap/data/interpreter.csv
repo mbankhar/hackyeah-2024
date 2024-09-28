@@ -1,0 +1,3 @@
+addr:street,addr:housenumber,@lat,@lon
+Hauptstraße,1,50.061,-19.938
+Nebenstraße,2,50.062,-19.939
