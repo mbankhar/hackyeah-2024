@@ -1,5 +1,6 @@
 import BottomSheet, { BottomSheetTextInput, BottomSheetView } from '@gorhom/bottom-sheet';
 import Constants from 'expo-constants';
+import { StatusBar } from 'expo-status-bar';
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { Linking, StyleSheet, View } from 'react-native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
@@ -148,6 +149,8 @@ function MapView() {
 
   return (
     <View style={styles.container}>
+      <StatusBar style="auto" />
+
       <WebView
         originWhitelist={['*']}
         source={{ html: openStreetMapHtml }}
