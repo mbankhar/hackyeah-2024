@@ -75,7 +75,7 @@ place = (50.06215, 19.93632)
 filepath = "./krakow3200m_mate.graphml"
 
 G = ox.graph_from_point(place, dist=3200, network_type="bike")
-for u, v, k, data in G.edges(data=True, keys=True):
+for u, v, k, data in G.edges(data=True, keys=True):    
     data['length'] = apply_rules(data, rules)
 
 ox.save_graphml(G, filepath)
