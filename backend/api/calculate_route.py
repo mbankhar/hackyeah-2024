@@ -45,6 +45,8 @@ def calculate_route():
     try:
         A = data['start']
         B = data['end']
+        # A = "Karmelicka 3"
+        # B = "Doktora Ludwika Zamenhofa 10"
     except (ValueError, TypeError):
         return jsonify({"error": "Invalid start or end coordinates"}), 400
 
@@ -56,7 +58,6 @@ def calculate_route():
     
     route = ox.shortest_path(G, orig, dest, weight="length")
     route = node_ids_to_coords(route, G)
-    print(route)
     return jsonify(route)
 
 if __name__ == '__main__':
