@@ -1,0 +1,7 @@
+osmnx
+folium
+matplotlib
+mapclassify
+scikit-learn
+astral
+flask
