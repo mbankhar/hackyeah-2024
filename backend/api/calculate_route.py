@@ -1,7 +1,20 @@
 import osmnx as ox
 from flask import Flask, request, jsonify
 import pandas as pd
-from trafficind import calculate_average_traffic_level
+import requests
+import os
+
+def get_traffic_data(Ax, Ay, Bx, By):
+    api_key = os.getenv("TOMTOM_API_KEY")
+    url = f"https://api.tomtom.com/routing/1/calculateRoute/{Ax},{Ay}:{Bx},{By}/json?key={api_key}&traffic=true"
+    response = requests.get(url)
+
+    if response.status_code == 200:
+        data = response.json()
+        route_summary = data['routes'][0]['summary']
+        return route_summary.get('trafficLengthInMeters', 0) / route_summary.get('lengthInMeters', 1) * 100
+    else:
+        return None
 
 app = Flask(__name__)
 
@@ -58,6 +71,7 @@ def calculate_route():
     dest = ox.distance.nearest_nodes(G, By, Bx)
     
 <<<<<<< HEAD
+<<<<<<< HEAD
     route = ox.shortest_path(G, orig, dest, weight="length")
     route = node_ids_to_coords(route, G)
 =======
@@ -67,6 +81,12 @@ def calculate_route():
         calculate_average_traffic_level(route)
     route = routes[0]
 >>>>>>> ac1b131... adding plots and multiple route alternatives
+=======
+    route = ox.shortest_path(G, orig, dest, weight="length")
+    route = node_ids_to_coords(route, G)
+    traffic_data = get_traffic_data(Ax, Ay, Bx, By)
+    print(traffic_data)
+>>>>>>> eb42eaa... simplifing traffic info to make it faster
     return jsonify(route)
 
 if __name__ == '__main__':
