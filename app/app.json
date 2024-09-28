@@ -12,8 +12,7 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "de.42heilbronn.app"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
