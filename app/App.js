@@ -11,6 +11,7 @@ import { gray } from './colors';
 function MapView() {
   const [statusBarHeight, setStatusBarHeight] = useState(0);
   const insets = useSafeAreaInsets();
+  const toInputRef = useRef(null);
 
   useEffect(() => {
     setStatusBarHeight(Constants.statusBarHeight);
@@ -145,7 +146,13 @@ function MapView() {
     width: 32
   }), []);
 
-  const [text, onChangeText] = useState('Where to?');
+  const [textFrom, onChangeTextFrom] = useState('');
+  const [textTo, onChangeTextTo] = useState('');
+  const [showFromInput, setShowFromInput] = useState(false);
+
+  const handleToInputFocus = () => {
+    setShowFromInput(true);
+  };
 
   return (
     <View style={styles.container}>
@@ -167,9 +174,35 @@ function MapView() {
         handleIndicatorStyle={bottomSheetHandleIndicatorStyle}
       >
         <BottomSheetView style={styles.containerBottomSheet}>
+          {showFromInput && (
+            <BottomSheetTextInput
+              onChangeText={onChangeTextFrom}
+              value={textFrom}
+              placeholder="From where?"
+              placeholderTextColor={gray[500]}
+              returnKeyType="next"
+              onSubmitEditing={() => toInputRef.current?.focus()}
+              style={{
+                height: "32px",
+                width: "80%",
+                padding: 16,
+                borderRadius: "8px",
+                backgroundColor: gray[100],
+                fontWeight: "500",
+                fontSize: "16px",
+                marginBottom: 8
+              }}
+            />
+          )}
+
           <BottomSheetTextInput
-            onChangeText={onChangeText}
-            value={text}
+            ref={toInputRef}
+            onChangeText={onChangeTextTo}
+            value={textTo}
+            placeholder="Where to?"
+            placeholderTextColor={gray[500]}
+            returnKeyType="send"
+            onFocus={handleToInputFocus}
             style={{
               height: "32px",
               width: "80%",
