@@ -30,6 +30,8 @@ function MapView() {
             margin-top: ${statusBarHeight + 16}px !important;
             margin-left: 16px !important;
             border-radius: 8px !important;
+            border: none !important;
+            box-shadow: 0px 2px 3.84px rgba(0, 0, 0, 0.25) !important;
           }
           .leaflet-control-zoom-in {
             border-top-left-radius: 8px !important;
