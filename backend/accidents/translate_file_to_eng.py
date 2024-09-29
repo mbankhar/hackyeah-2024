@@ -30,7 +30,8 @@ key_translation = {
     "Tramwaj, trolejbus": "Tram, trolleybus",
     "Rower": "Bicycle",
     "Nie dotyczy": "Not applicable",
-    "Inne": "Other"
+    "Inne": "Other",
+    "Martwy na miejscu wypadku": "Dead on spot of accident",
 }
 
 # Function to translate keys using hardcoded values

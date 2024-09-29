@@ -1,16 +1,24 @@
 import json
 import translate_file_to_eng
 
-from flask import jsonify
-
 accident_file_base = "bf_ids.json"
 accident_file = "bf_ids_eng.json"
 
-#super naive condition only compares 2 points with random precision
-def coords_match(long_a, long_b, lat_a, lat_b):
-    if abs(long_a - long_b) < 0.0001 and abs(lat_a - lat_b) < 0.0001:
-        return True
-    return False
+def coords_match(crash_point, point1, point2, accuracy=0.00001):
+    extrema_x = {}
+    extrema_y = {}
+    extrema_x[0] = min(point1[0], point2[0])
+    extrema_x[1] = max(point1[0], point2[0])
+    extrema_y[0] = min(point1[1], point2[1])
+    extrema_y[1] = max(point1[1], point2[1])
+    if extrema_y[0] - accuracy > crash_point[1] or extrema_y[1] + accuracy < crash_point[1]:
+        return False
+
+    if extrema_x[0] - accuracy > crash_point[0] or extrema_x[1] + accuracy < crash_point[1]:
+        return False
+
+    return True
+
 
 def get_route_accidents(route):
     global accident_file, accident_file_base
@@ -21,8 +29,16 @@ def get_route_accidents(route):
     with open(accident_file, 'r') as f:
         data = json.load(f)
         for key_crashes, value_crashes in data.items():
-            for key_route, value_route in enumerate(route):
-                if coords_match(value_crashes['gps_x'], value_route[1], value_crashes['gps_y'], value_route[0]):
+            crash_vals = {}
+            crash_vals[0] = value_crashes['gps_y']
+            crash_vals[1] = value_crashes['gps_x']
+            for i in range(len(route) - 1):
+                point1 = route[i]
+                point2 = route[i + 1]
+                #print(point1)
+                #print(point2)
+                if coords_match(crash_vals, point1, point2):
+                    print(f"match: crash: {crash_vals}; p1: {point1}; p2: {point2}")
                     accidents[key_crashes] = value_crashes
     return accidents
 
@@ -39,6 +55,8 @@ def score_accident(route):
                         multiplier += 1
                     elif injury == 'Severe':
                         multiplier += 4
+                    elif injury == 'Dead on spot of accident':
+                        multiplier += 7
     return multiplier
 
 
@@ -175,16 +193,17 @@ if __name__ == '__main__':
 ]
     result = get_route_accidents(dummy_route)
     score = score_accident(dummy_route)
-    print(f"result 1:{result}")
+    #print(f"result 1:{result}")
     print(f"result 1 score:{score}")
+
     dummy_route2 = [
-	[
-		52.1181104,
-		21.2761937
-	],
 	[
 		50.0632718,
 		19.9328029
+	],
+	[
+		51.1181104,
+		20.2761937
 	],
 	[
 		50.0626276,
@@ -301,5 +320,5 @@ if __name__ == '__main__':
 ]
     result2 = get_route_accidents(dummy_route2)
     score2 = score_accident(dummy_route2)
-    print(f"result 2:{result2}")
+    #print(f"result 2:{result2}")
     print(f"result 2 score:{score2}")
