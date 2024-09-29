@@ -149,6 +149,8 @@ function MapView() {
             margin-top: ${statusBarHeight + 16}px !important;
             margin-left: 16px !important;
             border-radius: 8px !important;
+            border: none !important;
+            box-shadow: 0px 2px 3.84px rgba(0, 0, 0, 0.25) !important;
           }
           .leaflet-control-zoom-in {
             border-top-left-radius: 8px !important;
@@ -210,21 +212,57 @@ function MapView() {
             shadowSize: [41, 41]
           });
 
-          L.Routing.control({
-            waypoints: [
-              L.latLng(50.0647, 19.9450),  // Example start point
-              L.latLng(50.0614, 19.9372)   // Example end point
-            ],
-            routeWhileDragging: true,
-            lineOptions: {
-              styles: [routeStyle],
-            },
-            createMarker: function(i, waypoint, n) {
-              return L.marker(waypoint.latLng, {
-                icon: blackIcon
-              });
+          var routingControl;
+
+          function updateRoute(waypoints) {
+            if (routingControl) {
+              map.removeControl(routingControl);
             }
-          }).addTo(map);
+
+            var routeWaypoints = waypoints.map(coord => L.latLng(coord[0], coord[1]));
+
+            // Always draw a direct line between waypoints
+            var directLine = L.polyline(routeWaypoints, routeStyle).addTo(map);
+
+            // Attempt to get the route from OSRM
+            routingControl = L.Routing.control({
+              waypoints: routeWaypoints,
+              routeWhileDragging: false,
+              lineOptions: {
+                styles: [routeStyle],
+              },
+              createMarker: function(i, waypoint, n) {
+                // Only create markers for the first and last waypoints
+                if (i === 0 || i === n - 1) {
+                  return L.marker(waypoint.latLng, {
+                    icon: blackIcon
+                  });
+                }
+                return null; // Return null for intermediate waypoints
+              },
+              router: L.Routing.osrmv1({
+                serviceUrl: 'https://router.project-osrm.org/route/v1',
+                timeout: 5000
+              }),
+              addWaypoints: false, // Prevent users from adding waypoints by clicking on the map
+              draggableWaypoints: false, // Prevent users from dragging waypoints
+              fitSelectedRoutes: false, // Fit the map to show the entire route
+            }).addTo(map);
+
+            routingControl.on('routesfound', function(e) {
+              // If a route is found, remove the direct line
+              map.removeLayer(directLine);
+            });
+
+            routingControl.on('routingerror', function(e) {
+              console.log('Routing error:', e.error);
+              // The direct line is already drawn, so we don't need to do anything here
+            });
+
+            // Fit the map to show all waypoints
+            var bounds = L.latLngBounds(routeWaypoints);
+            map.fitBounds(bounds, { padding: [50, 50] });
+          }
         </script>
       </body>
     </html>
@@ -265,9 +303,44 @@ function MapView() {
     width: 32
   }), []);
 
-  const [textFrom, onChangeTextFrom] = useState('');
-  const [textTo, onChangeTextTo] = useState('');
+  const [textFrom, onChangeTextFrom] = useState('Karmelicka 3');
+  const [textTo, onChangeTextTo] = useState('Doktora Ludwika Zamenhofa 10');
   const [showFromInput, setShowFromInput] = useState(false);
+
+  const webViewRef = useRef(null);
+
+  const updateMapRoute = (waypoints) => {
+    const waypointsString = JSON.stringify(waypoints);
+    webViewRef.current.injectJavaScript(`
+      updateRoute(${waypointsString});
+      true;
+    `);
+  };
+
+  const [isLoading, setIsLoading] = useState(false);
+
+  const calculateRoute = async () => {
+    try {
+      setIsLoading(true);
+      const response = await fetch('http://localhost:8000/calculate', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          start: textFrom,
+          end: textTo,
+        }),
+      });
+      const data = await response.json();
+      updateMapRoute(data)
+      bottomSheetRef.current?.snapToIndex(0);
+    } catch (error) {
+      console.error('Error calculating route:', error);
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
   const handleToInputFocus = () => {
     setShowFromInput(true);
@@ -300,6 +373,7 @@ function MapView() {
       <StatusBar style="auto" />
 
       <WebView
+        ref={webViewRef}
         originWhitelist={['*']}
         source={{ html: openStreetMapHtml }}
         style={styles.webView}
@@ -344,6 +418,7 @@ function MapView() {
             placeholderTextColor={gray[500]}
             returnKeyType="send"
             onFocus={handleToInputFocus}
+            onSubmitEditing={handleSubmit}
             style={{
               height: "32px",
               width: "80%",
@@ -354,6 +429,38 @@ function MapView() {
               fontSize: "16px"
             }}
           />
+
+          {showFromInput && (
+            <TouchableOpacity
+              onPress={handleSubmit}
+              disabled={isLoading}
+              style={{
+                height: "32px",
+                width: "80%",
+                padding: 16,
+                borderRadius: "8px",
+                backgroundColor: "#410ff8",
+                marginTop: 8,
+                justifyContent: "center",
+                alignItems: "center",
+                opacity: isLoading ? 0.4 : 1,
+              }}
+            >
+              {isLoading ? (
+                <ActivityIndicator color="white" />
+              ) : (
+                <Text
+                  style={{
+                    fontWeight: "500",
+                    fontSize: "16px",
+                    color: "white"
+                  }}
+                >
+                  GO!
+                </Text>
+              )}
+            </TouchableOpacity>
+          )}
         </BottomSheetView>
       </BottomSheet>
 
