@@ -74,7 +74,7 @@ ox.settings.useful_tags_way += [
 ]
 
 place = (50.06215, 19.93632)
-filepath = "./krakow3200m_marian.graphml"
+filepath = "./krakow3200m.graphml"
 
 G = ox.graph_from_point(place, dist=3200, network_type="bike")
 def process_elevation(graph):
