@@ -4,12 +4,14 @@ from astral.sun import sun
 from datetime import datetime
 from elevation import calculate_slope
 from elevation import get_elevations
+import route_accidents
 
 def apply_rules(data, rules):
     length = data['length']
     for condition, adjustment in rules.items():
         if condition(data):
             length = length * adjustment
+    length = length * route_accidents.score_accident(data)
     return length
 
 def process(graph):
