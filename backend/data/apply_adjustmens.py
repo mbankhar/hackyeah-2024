@@ -12,6 +12,38 @@ def apply_rules(data, rules):
             length = length * adjustment
     return length
 
+def process(graph):
+    # Get all nodes in the graph
+    nodes = list(graph.nodes(data=True))
+
+    # Create a dictionary to hold coordinates and elevations
+    coordinates = {node: (data['y'], data['x']) for node, data in nodes}
+
+    # Fetch elevations for all coordinates at once
+    elevation_data = get_elevations(coordinates.values())
+
+    # Loop through adjacent nodes in the graph
+    for node1, node2, k, data in G.edges(data=True, keys=True):
+        data['length'] = apply_rules(data, rules)
+        # lat1, lon1 = coordinates[node1]
+        # lat2, lon2 = coordinates[node2]
+
+        # # Retrieve elevation data from the results
+        # elevation1 = elevation_data.get(f"{lat1},{lon1}")
+        # elevation2 = elevation_data.get(f"{lat2},{lon2}")
+
+        # if elevation1 is not None and elevation2 is not None:
+        #     # Calculate the elevation difference
+        #     elevation_diff = abs(elevation2 - elevation1)
+
+        #     # Calculate the distance between the two points
+        #     distance = ox.distance.great_circle(lat1, lon1, lat2, lon2)
+        #     slope = calculate_slope(elevation_diff, distance)
+        #     if slope > 10:
+        #         data['length'] = data['length'] * 5
+        #     elif slope > 5:
+        #         data['length'] = data['length'] * 3
+
 # Define the location to always be Kraków, Poland
 city = LocationInfo("Kraków", "Poland")
 def is_dark(city):
@@ -51,65 +83,11 @@ rules = {
     lambda data: data.get('parking:lane', 'unknown') != 'no' and is_parking_relevant(): 1.2  # Increase if parking spots pose danger for bikes during relevant times
 }
 
-ox.settings.useful_tags_way += [
-    "highway", 
-    "cycleway", 
-    "surface", 
-    "smoothness", 
-    "bike_lane", 
-    "lanes", 
-    "width", 
-    "sidewalk", 
-    "junction", 
-    "bicycle", 
-    "motor_vehicle", 
-    "oneway", 
-    "traffic_calming", 
-    "condition", 
-    "public_transport", 
-    "landuse", 
-    "hazard", 
-    "access", 
-    "vehicle"
-]
+G = ox.load_graphml("./krakow3200v2.graphml")
 
-place = (50.06215, 19.93632)
-filepath = "./krakow3200m.graphml"
+process(G)
 
-G = ox.graph_from_point(place, dist=3200, network_type="bike")
-def process_elevation(graph):
-    # Get all nodes in the graph
-    nodes = list(graph.nodes(data=True))
-
-    # Create a dictionary to hold coordinates and elevations
-    coordinates = {node: (data['y'], data['x']) for node, data in nodes}
-
-    # Fetch elevations for all coordinates at once
-    elevation_data = get_elevations(coordinates.values())
-
-    # Loop through adjacent nodes in the graph
-    for node1, node2, k, data in G.edges(data=True, keys=True):
-        data['length'] = apply_rules(data, rules)
-        lat1, lon1 = coordinates[node1]
-        lat2, lon2 = coordinates[node2]
-
-        # Retrieve elevation data from the results
-        elevation1 = elevation_data.get(f"{lat1},{lon1}")
-        elevation2 = elevation_data.get(f"{lat2},{lon2}")
-
-        if elevation1 is not None and elevation2 is not None:
-            # Calculate the elevation difference
-            elevation_diff = abs(elevation2 - elevation1)
-
-            # Calculate the distance between the two points
-            distance = ox.distance.great_circle(lat1, lon1, lat2, lon2)
-            slope = calculate_slope(elevation_diff, distance)
-            if slope > 10:
-                data['length'] = data['length'] * 5
-            elif slope > 5:
-                data['length'] = data['length'] * 3
-
-
-ox.save_graphml(G, filepath)
-
+filepath = "./malopolska_5.graphml"
+# ox.save_graphml(G, filepath)
+print("done")
 #G = ox.load_graphml(filepath) use this to load the graph in subsequent work
