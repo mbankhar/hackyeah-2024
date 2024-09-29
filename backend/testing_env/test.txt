@@ -1,0 +1,15 @@
+osmid
+oneway
+lanes
+name
+highway
+maxspeed
+surface
+smoothness
+sidewalk
+reversed
+length
+geometry
+cycleway
+bicycle
+width
