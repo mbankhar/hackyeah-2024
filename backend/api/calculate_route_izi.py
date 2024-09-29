@@ -34,8 +34,8 @@ def node_ids_to_coords(route, G):
     return coords
 
 def update_usage_counts(route, G):
-    for u, v in zip(route[:-1], route[1:]):
-        G.edges[u, v]['usage_count'] += 1
+    for u, v in route:
+        G.edges[u, v, 0]['usage_count'] += 1
 
 def create_heatmap(G):
     # Prepare data for heatmap
