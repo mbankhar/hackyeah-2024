@@ -1,12 +1,131 @@
+import Feather from '@expo/vector-icons/Feather';
 import BottomSheet, { BottomSheetTextInput, BottomSheetView } from '@gorhom/bottom-sheet';
 import Constants from 'expo-constants';
 import { StatusBar } from 'expo-status-bar';
 import React, { useEffect, useMemo, useRef, useState } from 'react';
+<<<<<<< HEAD
 import { Linking, StyleSheet, View } from 'react-native';
+=======
+import { ActivityIndicator, Linking, Modal, SafeAreaView, ScrollView, StyleSheet, Switch, Text, TouchableOpacity, View } from 'react-native';
+>>>>>>> d0a944c... (app) implement settings drawer
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { SafeAreaProvider, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { WebView } from 'react-native-webview';
 import { gray } from './colors';
+
+const Condition = ({ text }) => {
+  const [isEnabled, setIsEnabled] = useState(true);
+  const toggleSwitch = () => setIsEnabled(previousState => !previousState);
+
+  return (
+    <View
+      style={{
+        width: "100%",
+        flexDirection: "row",
+        alignItems: "center",
+        marginBottom: 8
+      }}
+    >
+      <Switch
+        trackColor={{ true: '#410ff8' }}
+        onValueChange={toggleSwitch}
+        value={isEnabled}
+        style={{
+          marginRight: 8
+        }}
+      />
+
+      <Text style={{ fontWeight: "semibold", flex: 1 }}>
+        {text}
+      </Text>
+    </View>
+  )
+}
+
+const Menu = ({ isVisible, onClose }) => {
+  return (
+    <Modal
+      animationType="slide"
+      transparent={true}
+      visible={isVisible}
+      onRequestClose={onClose}
+    >
+      <SafeAreaView style={styles.menuContainer}>
+        <View style={styles.menuContent}>
+          <ScrollView contentContainerStyle={styles.menuScrollContent}>
+            <Text style={styles.menuTitle}>Settings</Text>
+
+            <Text
+              style={{
+                marginTop: 8,
+                color: gray[500],
+                textAlign: "center",
+                marginBottom: 32
+              }}
+            >
+              Your conditions for a safe route.
+            </Text>
+
+            <Condition
+              text="Avoid unlit roads during night hours"
+            />
+            <Condition
+              text="Prioritize paved and asphalt surfaces"
+            />
+            <Condition
+              text="Prioritize roads with dedicated cycleways"
+            />
+            <Condition
+              text="Prefer smooth roads (excellent/good surface quality)"
+            />
+            <Condition
+              text="Avoid routes with a history of traffic incidents"
+            />
+            <Condition
+              text="Avoid roads with high real-time traffic"
+            />
+            <Condition
+              text="Avoid roads with poor surface quality"
+            />
+            <Condition
+              text="Avoid roads under construction"
+            />
+            <Condition
+              text="Favor wide roads (greater than 5 meters)"
+            />
+            <Condition
+              text="Avoid roads with parking lanes during busy hours"
+            />
+
+            <TouchableOpacity
+              onPress={onClose}
+              style={{
+                height: "32px",
+                width: "80%",
+                padding: 16,
+                borderRadius: "8px",
+                backgroundColor: "#410ff8",
+                marginTop: 32,
+                justifyContent: "center",
+                alignItems: "center",
+              }}
+            >
+              <Text
+                  style={{
+                    fontWeight: "500",
+                    fontSize: "16px",
+                    color: "white"
+                  }}
+                >
+                  Save
+                </Text>
+            </TouchableOpacity>
+          </ScrollView>
+        </View>
+      </SafeAreaView>
+    </Modal>
+  );
+};
 
 function MapView() {
   const [statusBarHeight, setStatusBarHeight] = useState(0);
@@ -154,6 +273,28 @@ function MapView() {
     setShowFromInput(true);
   };
 
+<<<<<<< HEAD
+=======
+  const handleSubmit = () => {
+    calculateRoute();
+  };
+  
+  const [isMenuVisible, setIsMenuVisible] = useState(false);
+
+  const toggleMenu = () => {
+    setIsMenuVisible(!isMenuVisible);
+  };
+
+  const IconButton = () => (
+    <TouchableOpacity
+      style={styles.iconButton}
+      onPress={toggleMenu}
+    >
+      <Feather name="menu" size={24} color="black" />
+    </TouchableOpacity>
+  );
+
+>>>>>>> d0a944c... (app) implement settings drawer
   return (
     <View style={styles.container}>
       <StatusBar style="auto" />
@@ -215,6 +356,9 @@ function MapView() {
           />
         </BottomSheetView>
       </BottomSheet>
+
+      <IconButton />
+      <Menu isVisible={isMenuVisible} onClose={() => setIsMenuVisible(false)} />
     </View>
   );
 }
@@ -239,5 +383,47 @@ const styles = StyleSheet.create({
   containerBottomSheet: {
     flex: 1,
     alignItems: 'center',
-  }
+  },
+  iconButton: {
+    position: 'absolute',
+    top: Constants.statusBarHeight + 16,
+    right: 16,
+    backgroundColor: 'white',
+    borderRadius: 999,
+    width: 48,
+    height: 48,
+    justifyContent: 'center',
+    alignItems: 'center',
+    shadowColor: "#000",
+    shadowOffset: {
+      width: 0,
+      height: 2,
+    },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+    elevation: 5,
+    zIndex: 1,
+  },
+  menuContainer: {
+    flex: 1,
+    justifyContent: 'flex-end',
+    backgroundColor: 'rgba(0, 0, 0, 0.5)'
+  },
+  menuContent: {
+    backgroundColor: 'white',
+    borderTopLeftRadius: 32,
+    borderTopRightRadius: 32,
+    maxHeight: '80%',
+  },
+  menuScrollContent: {
+    padding: 24,
+    alignItems: "center"
+  },
+  menuTitle: {
+    fontSize: 24,
+    fontWeight: 'bold'
+  },
+  menuItem: {
+    padding: 10,
+  },
 });
