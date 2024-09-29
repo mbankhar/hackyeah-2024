@@ -4,7 +4,7 @@ import translate_file_to_eng
 accident_file_base = "bf_ids.json"
 accident_file = "bf_ids_eng.json"
 
-def coords_match(crash_point, point1, point2, accuracy=0.00001):
+def coords_match(crash_point, point1, point2, accuracy=0.0009):#about 100m accuracy
     extrema_x = {}
     extrema_y = {}
     extrema_x[0] = min(point1[0], point2[0])
