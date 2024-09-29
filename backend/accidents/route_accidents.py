@@ -37,9 +37,9 @@ def get_route_accidents(route):
                 point1 = route[i]
                 point2 = route[i + 1]
                 if coords_match(crash_vals, point1, point2):
-                    print(f"1: {point1}")
-                    print(f"2: {point2}")
-                    print(f"crash: {crash_vals}")
+                    #print(f"1: {point1}")
+                    #print(f"2: {point2}")
+                    #print(f"crash: {crash_vals}")
 
                     accidents[key_crashes] = value_crashes
     return accidents
