@@ -2,6 +2,8 @@ import osmnx as ox
 from astral import LocationInfo
 from astral.sun import sun
 from datetime import datetime
+from elevation import calculate_slope
+from elevation import get_elevations
 
 def apply_rules(data, rules):
     length = data['length']
@@ -72,11 +74,41 @@ ox.settings.useful_tags_way += [
 ]
 
 place = (50.06215, 19.93632)
-filepath = "./krakow3200m_mate.graphml"
+filepath = "./krakow3200m_marian.graphml"
 
 G = ox.graph_from_point(place, dist=3200, network_type="bike")
-for u, v, k, data in G.edges(data=True, keys=True):    
-    data['length'] = apply_rules(data, rules)
+def process_elevation(graph):
+    # Get all nodes in the graph
+    nodes = list(graph.nodes(data=True))
+
+    # Create a dictionary to hold coordinates and elevations
+    coordinates = {node: (data['y'], data['x']) for node, data in nodes}
+
+    # Fetch elevations for all coordinates at once
+    elevation_data = get_elevations(coordinates.values())
+
+    # Loop through adjacent nodes in the graph
+    for node1, node2, k, data in G.edges(data=True, keys=True):
+        data['length'] = apply_rules(data, rules)
+        lat1, lon1 = coordinates[node1]
+        lat2, lon2 = coordinates[node2]
+
+        # Retrieve elevation data from the results
+        elevation1 = elevation_data.get(f"{lat1},{lon1}")
+        elevation2 = elevation_data.get(f"{lat2},{lon2}")
+
+        if elevation1 is not None and elevation2 is not None:
+            # Calculate the elevation difference
+            elevation_diff = abs(elevation2 - elevation1)
+
+            # Calculate the distance between the two points
+            distance = ox.distance.great_circle(lat1, lon1, lat2, lon2)
+            slope = calculate_slope(elevation_diff, distance)
+            if slope > 10:
+                data['length'] = data['length'] * 5
+            elif slope > 5:
+                data['length'] = data['length'] * 3
+
 
 ox.save_graphml(G, filepath)
 
