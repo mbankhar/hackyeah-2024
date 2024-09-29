@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=“logo.png" alt="CycloSafe Logo" width="200"/>
+</p>
+
 # CycloSafe 🚴‍♂️🛡️
 
 CycloSafe is a cross-platform app designed to enhance cycling safety in Kraków and the Małopolska region. By integrating real-time traffic data, vehicle speed information, and OpenStreetMap data, CycloSafe offers safer route planning for cyclists. Our goal is to empower cyclists to navigate safely, avoiding high-risk areas and hazards.
