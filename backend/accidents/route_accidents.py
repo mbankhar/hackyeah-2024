@@ -45,10 +45,10 @@ def get_route_accidents(route):
 def score_accident(route):
     multiplier = 1.0
     accidents = get_route_accidents(route)
-    for _, accident in accidents.items():  # Unpack key-value pair, but we don't need the key
-        for participant in accident['participants'].values():  # Access each participant
-            for victim_type, victim_data in participant['victims'].items():  # Access the victims
-                for injury in victim_data['injuries']:  # Iterate through the injuries list
+    for _, accident in accidents.items():
+        for participant in accident['participants'].values():
+            for victim_type, victim_data in participant['victims'].items():
+                for injury in victim_data['injuries']:
                     if injury == 'No injuries':
                         multiplier += 0.3
                     elif injury == 'Minor':
